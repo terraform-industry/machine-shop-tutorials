@@ -49,14 +49,14 @@ For a 100mm diameter bolt circle (50mm radius):
 5. **Hole 5**: X = +15.45, Y = -47.55
 
 ![5-Hole Layout](./images/5_hole/layout.png)
-*Figure 1: Complete 5-hole pattern layout with coordinates*
+_Figure 1: Complete 5-hole pattern layout with coordinates_
 
 ### Understanding the Math
 
 Here's how we get from angles to coordinates:
 
 ![Triangle Explanation](./images/5_hole/triangle_explanation.png)
-*Figure 2: The trigonometry behind the weird numbers*
+_Figure 2: The trigonometry behind the weird numbers_
 
 ## Shortcuts Are Nice
 
@@ -66,9 +66,12 @@ Once you calculate one 5-hole pattern, make a template. Drill it in aluminum pla
 
 ### Method 2: CAD Cop-Out
 
-It's 2025 all have pocket sized supercomputers. Fire up a CAD app, draw your bolt circle, array 5 holes, read the coordinates. No shame in using technology.
+It's 2025 and we all have pocket sized supercomputers. Fire up a CAD app, draw your bolt circle, array 5 holes, read the coordinates. No shame in using technology.
 
 ### Method 3: Grandpa's Sine Bar
+
+![Grandpa's Sine Bar](./images/5_hole/sine-bar.jpeg)
+_Some dead guys sine bar, probably._
 
 If you have inherited a sine bar and you're feeling saucy:
 
@@ -106,7 +109,7 @@ The distance between adjacent holes should be:
 This is harder to measure than diameter, but it's what you've got.
 
 ![Chord Verification](./images/5_hole/chord_verification.png)
-*Figure 3: Measuring chord length to verify your pattern*
+_Figure 3: Measuring chord length to verify your pattern_
 
 ## Real Talk
 
@@ -119,4 +122,3 @@ But when you absolutely must do a 5-hole pattern (yeah, I'm looking at you low-r
 
 If you find yourself doing a lot of 5-hole patterns, invest in a rotary table or a dividing head. Set it to 72° increments and save your sanity.  
 The math works, and it's a cool flex, but a rotary table works better.
-
