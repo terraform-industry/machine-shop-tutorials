@@ -23,7 +23,7 @@ This is the one I get asked about most often.
 
 ### [5-Hole Pattern (Pentagon)](./5_hole_pattern.md)
 
-72° spacing - requires actual sine/cosine but we'll show you shortcuts so you don't need a calculator at the mill. Includes diagrams because this one's weird.
+72° spacing - requires actual sine/cosine but I'll show you shortcuts so you don't need to be embarrassed pulling out a calculator at the mill. Included some diagrams because this one's just weird.
 
 ## General Principles
 
@@ -38,4 +38,3 @@ All bolt circle calculations follow the same basic approach:
 
 I'm thinking ahead—so the next time I get asked how to do this, I've got an easy hyperlink to send.  
 After you've performed these operations a few times it's just like walking. You don't even have to think about it.
-
