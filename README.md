@@ -6,13 +6,13 @@ Author: Johannes A. Nilsson
 
 ## Available Tutorials
 
-### 1. [Hexagonal (6-Hole) Bolt Circle Coordinates](./bolt_circle_coordinates/README.md)
-Learn how to calculate hole positions for a 6-hole bolt pattern using the 30-60-90 triangle method. This tutorial specifically covers hexagonal bolt patterns where holes are spaced 60° apart, using the simple multipliers 0.5 and 0.86603.
+### 1. [Bolt Circle Coordinate Calculations](./bolt_circle_coordinates/README.md)
+Complete guide to calculating hole positions for common bolt patterns. Covers 4, 5, 6, and 8-hole patterns with practical examples and visual diagrams.
 
-- **Topics**: 30-60-90 triangles, hexagonal patterns, coordinate calculation
-- **Example**: 152.4mm (6") flange with 127mm bolt circle diameter
-- **Application**: 6-bolt flanges, hexagonal hole patterns, 60° spacing
-- **Includes**: Step-by-step calculations, visual diagrams, quick reference table
+- **4 & 8-Hole Patterns**: Simple 90° and 45° spacing - the easy ones
+- **5-Hole Pattern**: The oddball 72° spacing with all the weird trig values
+- **6-Hole Pattern**: The most common, using 30-60-90 triangles and simple multipliers
+- **Includes**: Step-by-step calculations, visual diagrams, quick reference tables, verification methods
 
 ## Contributing
 

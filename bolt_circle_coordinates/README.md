@@ -21,9 +21,9 @@ This is the one I get asked about most often.
 
 90° and 45° spacing - the easiest patterns to calculate. 8-hole is just 4-hole with a second set rotated 45°. If you can't figure these out, maybe take up knitting instead.
 
-### 5-Hole Pattern (Pentagon)
+### [5-Hole Pattern (Pentagon)](./5_hole_pattern.md)
 
-72° spacing - requires actual sine/cosine but we'll show you shortcuts so you don't need a calculator at the mill.
+72° spacing - requires actual sine/cosine but we'll show you shortcuts so you don't need a calculator at the mill. Includes diagrams because this one's weird.
 
 ## General Principles
 
