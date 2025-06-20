@@ -1,0 +1,19 @@
+# Work in Progress - not tracked
+WIP/
+
+# Scripts and tools for generating content
+scripts/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
