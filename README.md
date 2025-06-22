@@ -43,7 +43,17 @@ Shop hacks for setting up angled holes and bevels when the print calls for angle
 - **Grandpa's Sine Bar Method**: For when you inherited some old timer's tools
 - **Includes**: Formula explanations for n00bs, common angles reference, safety warnings
 
-### 5. [Shop Efficiency](./shop_efficiency/README.md)
+### 5. [Band Saw Basics](./band_saw_basics/README.md)
+
+The unsung hero of metal shops - cutting stock to size without drama, if you know what you're doing.
+
+- **Horizontal vs Vertical**: Which saw for which job, plus speed and coolant settings
+- **Blade Selection**: TPI, materials, and blade life
+- **Speeds and Materials**: Getting clean cuts without burning blades
+- **Horizontal Saw Setup**: Making it cut true (not at an angle)
+- **Cutting Techniques**: Tips for clean, accurate cuts
+
+### 6. [Shop Efficiency](./shop_efficiency/README.md)
 
 Advanced techniques that separate hobbyists from production professionals. Save time, increase ROI.
 
@@ -52,7 +62,7 @@ Advanced techniques that separate hobbyists from production professionals. Save 
 - **Shop-Made Tools**: Build your own cutting tools for special use cases & save $$$
 - **Why it matters**: The difference between 4 hours and .5 hour per part
 
-### 6. [Measurement and Quality](./measurement_quality/README.md)
+### 7. [Measurement and Quality](./measurement_quality/README.md)
 
 How to check if your parts are actually good, or if you just made expensive scrap.
 
