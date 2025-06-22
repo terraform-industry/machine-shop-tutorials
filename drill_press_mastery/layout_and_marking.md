@@ -169,7 +169,7 @@ This is where it gets interesting:
 3. Walk down the line
 4. All holes in perfect spacing
 
-**Circular patterns** (see our bolt circle tutorials):
+**Circular patterns** (see the [bolt circle tutorials](../bolt_circle_coordinates/README.md)):
 
 1. Find center
 2. Scribe circle (if needed)
