@@ -27,7 +27,7 @@ What I use for most of my fabrication work:
 
 When ±1/16" won't cut it:
 
-**Tools**:
+**Tools**:  
 ![Pocket Carbide Scribe, don't leave home without it!](./images/70AX_pocket_scribe.png)
 _Never be without a good quality pocket scribe!_
 
@@ -35,8 +35,10 @@ _Never be without a good quality pocket scribe!_
 - Steel rule or square
 - Maybe layout fluid
 
-**My go-to square**:
-![Starrett 150mm Machinists Square](./images/machinists_square.png)
+---
+
+**My go-to square**:  
+![Starrett 150mm Machinists Square](./images/machinists_square.png)  
 _That little combo square/machinist square hybrid:_
 
 - Set length precisely
@@ -44,6 +46,8 @@ _That little combo square/machinist square hybrid:_
 - Scribe along the edge
 - Way faster than measuring each time
 - Has a built in scribe (don't loose it!)
+
+---
 
 ### Caliper Scribing - Shop Controversial
 
