@@ -15,7 +15,17 @@ The unsexy skills that separate **machinists** from **button pushers**. Master t
 - **Dial Indicator Mastery**: Reading runout, tramming mills, centering in 4-jaw chucks
 - **Why it matters**: You can't make accurate parts without these basics
 
-### 2. [Bolt Circle Coordinate Calculations](./bolt_circle_coordinates/README.md)
+### 2. [Drill Press Mastery](./drill_press_mastery/README.md)
+
+How to drill holes that are actually round, in the right place, and don't turn your workpiece into a spinning weapon.
+
+- **Drill Bit Selection**: Understanding twist drills, point angles, and materials
+- **Layout and Marking**: Getting your holes in the right place every time
+- **Work Holding**: Keeping parts from becoming projectiles
+- **Speeds and Feeds**: Simple rules that actually work
+- **Drilling Techniques**: Making clean holes and reading your chips
+
+### 3. [Bolt Circle Coordinate Calculations](./bolt_circle_coordinates/README.md)
 
 Complete guide to calculating hole positions for common bolt patterns. Covers 4, 5, 6, and 8-hole patterns with practical examples and some visual diagrams.
 
@@ -24,7 +34,7 @@ Complete guide to calculating hole positions for common bolt patterns. Covers 4,
 - **6-Hole Pattern**: The most common, using 30-60-90 triangles and simple multipliers
 - **Includes**: Step-by-step calculations, visual diagrams, quick reference tables, verification methods
 
-### 3. [Compound Angles](./compound_angles/README.md)
+### 4. [Compound Angles](./compound_angles/README.md)
 
 Shop hacks for setting up angled holes and bevels when the print calls for angles in two directions. No 5-axis machine? No problem.
 
@@ -33,7 +43,7 @@ Shop hacks for setting up angled holes and bevels when the print calls for angle
 - **Grandpa's Sine Bar Method**: For when you inherited some old timer's tools
 - **Includes**: Formula explanations for n00bs, common angles reference, safety warnings
 
-### 4. [Shop Efficiency](./shop_efficiency/README.md)
+### 5. [Shop Efficiency](./shop_efficiency/README.md)
 
 Advanced techniques that separate hobbyists from production professionals. Save time, increase ROI.
 
@@ -42,7 +52,7 @@ Advanced techniques that separate hobbyists from production professionals. Save 
 - **Shop-Made Tools**: Build your own cutting tools for special use cases & save $$$
 - **Why it matters**: The difference between 4 hours and .5 hour per part
 
-### 5. [Measurement and Quality](./measurement_quality/README.md)
+### 6. [Measurement and Quality](./measurement_quality/README.md)
 
 How to check if your parts are actually good, or if you just made expensive scrap.
 
