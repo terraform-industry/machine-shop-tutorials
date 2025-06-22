@@ -13,6 +13,7 @@ How to drill holes that are actually round, in the right place, and don't turn y
 ## Why This Matters
 
 Drilling holes seems simple enough, but there's a difference between punching a hole and drilling a proper hole. Get it wrong and you'll:
+
 - Break drills (expensive)
 - Make oval holes (embarrassing)
 - Launch parts across the shop (dangerous)
@@ -23,12 +24,14 @@ These tutorials come from real shop experience - what actually works when you ne
 ## Prerequisites
 
 Before diving in, you should:
+
 - Know basic shop safety
 - Be able to read a ruler
 - Understand RPM (revolutions per minute)
 
-If you're completely new to metalworking, start with our [fundamental skills](../fundamental_skills/) section first.
+If you're completely new to metalworking, start with the [fundamental skills](../fundamental_skills/README.md) section first.
 
 ## The Golden Rule of Drilling
 
 **Never hold work by hand**. That innocent piece of aluminum becomes a spinning knife when the drill grabs. Use proper work holding - your fingers will thank you.
+
