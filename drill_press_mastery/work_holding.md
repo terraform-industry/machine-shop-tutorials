@@ -5,6 +5,7 @@ How to keep your parts from becoming projectiles. This isn't optional - it's sur
 ## Why Work Holding Matters
 
 That innocent piece of aluminum becomes a spinning blade when a drill grabs. I've seen:
+
 - Parts thrown across shops
 - Fingers broken
 - Deep lacerations
@@ -18,6 +19,7 @@ That innocent piece of aluminum becomes a spinning blade when a drill grabs. I'v
 ### The T-Slot Dilemma
 
 Most drill press tables have T-slots, but:
+
 - T-slot clamps are cumbersome
 - Constantly repositioning
 - Slow for production
@@ -26,6 +28,7 @@ Most drill press tables have T-slots, but:
 ### My Solution - Modified Table
 
 What I did (game changer):
+
 1. Drilled 5/8" holes in table
 2. Grid pattern about 3" apart
 3. Use fixture table hardware
@@ -33,6 +36,7 @@ What I did (game changer):
 5. Rock solid holding
 
 Now I can:
+
 - Drop pins anywhere
 - Use standard clamps
 - Set up stops quickly
@@ -45,12 +49,14 @@ Now I can:
 The bread and butter of small parts:
 
 **Standard mounting** (slow way):
+
 1. Bolts through base
 2. Through T-slots
 3. Tighten down
 4. Reposition = start over
 
 **My preferred method** (fast):
+
 1. Position vise under spindle
 2. Find hole with center punch
 3. Clamp vise to table
@@ -59,18 +65,21 @@ The bread and butter of small parts:
 ### Advanced Vise Work
 
 **Parallels**:
+
 - Lift work above jaws
 - Consistent height
 - Prevents jaw marks
 - Essential for accurate work
 
 **V-blocks**:
+
 - Hold round stock
 - Prevents rotation
 - Centers automatically
 - Magnetic ones are handy
 
 **Soft jaws**:
+
 - Protect finished surfaces
 - Custom shapes
 - Aluminum or copper
@@ -83,12 +92,14 @@ For larger or odd-shaped pieces:
 ### Step Blocks and Clamps
 
 Traditional method:
+
 1. Step block near work
 2. Clamp over work
 3. Stud through table
 4. Adjust for height
 
 **Pro tips**:
+
 - Clamp close to drill
 - Use multiple clamps
 - Step block slightly higher
@@ -97,6 +108,7 @@ Traditional method:
 ### Fixture Plate Method
 
 My go-to for production:
+
 1. Aluminum plate with holes
 2. Bolts to table
 3. Infinite positioning
@@ -106,6 +118,7 @@ My go-to for production:
 ### Toggle Clamps
 
 For repetitive work:
+
 - Mount to fixture plate
 - Quick open/close
 - Consistent pressure
@@ -119,6 +132,7 @@ Sometimes you need access:
 ### Stop Blocks
 
 Minimum safety:
+
 1. Two stops against edges
 2. Prevents spinning
 3. NOT recommended alone
@@ -127,6 +141,7 @@ Minimum safety:
 ### Fence Systems
 
 Better option:
+
 1. Fence along one edge
 2. Stop at end
 3. Light downward pressure
@@ -137,6 +152,7 @@ Better option:
 ### Angle Plates
 
 For drilling perpendicular:
+
 - Clamp work to plate
 - Plate to table
 - Accurate 90° holes
@@ -145,6 +161,7 @@ For drilling perpendicular:
 ### Rotary Tables
 
 When you need bolt circles:
+
 - Expensive but accurate
 - Direct indexing
 - No layout needed
@@ -153,6 +170,7 @@ When you need bolt circles:
 ### Magnetic Chucks
 
 Great for steel:
+
 - Instant holding
 - Full support
 - No clamp marks
@@ -163,6 +181,7 @@ Great for steel:
 ### "It's Just One Hole"
 
 Famous last words:
+
 - Takes 10 seconds to clamp
 - Takes weeks to heal
 - No excuse for laziness
@@ -170,6 +189,7 @@ Famous last words:
 ### Over-Clamping
 
 Problems:
+
 - Distorts thin material
 - Breaks castings
 - Strips threads
@@ -178,6 +198,7 @@ Problems:
 ### Under-Supporting
 
 Thin material needs support:
+
 - Use backing board
 - Prevents breakthrough damage
 - Cleaner holes
@@ -186,6 +207,7 @@ Thin material needs support:
 ### Wrong Clamp Position
 
 Keep clamps:
+
 - Close to cutting action
 - Clear of spindle travel
 - Balanced pressure
@@ -196,6 +218,7 @@ Keep clamps:
 ### Production Drilling
 
 Same part, multiple holes:
+
 1. First part: measure carefully
 2. Set up stops
 3. Drop in, clamp, drill
@@ -205,6 +228,7 @@ Same part, multiple holes:
 ### One-Off Parts
 
 Quick but safe:
+
 1. Vise for small parts
 2. Direct clamp for large
 3. Always center punch first
@@ -214,22 +238,24 @@ Quick but safe:
 ### Sheet Metal
 
 Special considerations:
+
 - Backing board mandatory
 - Light pressure
-- Watch for oil canning
+- Watch for oil canning (metal warping due to heat/friction)
 - Sandwich method works
 
-## Safety Rules (Non-Negotiable)
+## Safety Rules Are Non-Negotiable
 
-1. **Never hold by hand** - Ever. Period.
-2. **Check clearance** - Spindle to clamps
-3. **Secure loose items** - Rags, rulers, etc.
-4. **Know your exit** - Things go wrong fast
-5. **Keep hands clear** - 4" minimum from bit
+1. **Never hold work by hand** - Ever. Period.
+2. **Check clearances** - Is your spindle hitting your clamps?
+3. **Secure loose items** - Rags, rulers, shirt cuffs, etc.
+4. **Know your exit** - Things go wrong fast! Where is the e-stop button?
+5. **Keep hands clear** - 4" minimum from bit, more = better
 
 ## Your Work Holding Kit
 
 ### Must Have
+
 - 6" drill press vise
 - Set of clamps
 - Step blocks
@@ -237,6 +263,7 @@ Special considerations:
 - V-blocks
 
 ### Should Have
+
 - Angle plate
 - Toggle clamps
 - Soft jaw material
@@ -244,6 +271,7 @@ Special considerations:
 - Fixture plate
 
 ### Nice to Have
+
 - Magnetic vise jaws
 - Rotary table
 - Sine vise
@@ -252,15 +280,19 @@ Special considerations:
 ## The Bottom Line
 
 Good work holding:
+
 - Keeps you safe
 - Improves accuracy
 - Speeds up work
-- Looks professional
+- Professional
 
 Bad work holding:
+
 - Sends you to ER
 - Scraps parts
 - Breaks tools
+- Makes you look stupid
 - Gets you fired
 
 Take the extra 30 seconds to clamp it properly. Your fingers (and your boss) will thank you.
+
