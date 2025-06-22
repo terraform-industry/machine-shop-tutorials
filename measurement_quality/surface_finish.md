@@ -145,7 +145,7 @@ Run your fingernail (if you have them) perpendicular to lay:
 
 - Drags a tiny stylus across the surface
 - Actually measures real `Ra` value
-- Only for when Boss or customer demands proof
+- Only for when Boss or consumer demands proof
 - Oh, and don't drop it!
 
 ## Factors That Affect Finish
