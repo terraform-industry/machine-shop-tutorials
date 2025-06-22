@@ -255,7 +255,7 @@ Sometimes the engineer went crazy with GD&T:
 
 _"Does this need to be inspected or just made to print?"_
 
-Sometimes they just want best effort. Sometimes they're buying a CMM report. Know the difference.
+Sometimes they just want best effort. Sometimes they're buying a CMM report (full measurement documentation from the Coordinate Measuring Machine). Know the difference.
 
 ## Quick Reference Cheat Sheet
 
@@ -287,7 +287,7 @@ Sometimes they just want best effort. Sometimes they're buying a CMM report. Kno
 
 ### Nice to Have
 
-- CMM access
+- CMM (Coordinate Measuring Machine) access
 - GD&T software
 - Optical comparator
 - Friends in QC
