@@ -1,0 +1,177 @@
+site_name: Machine Shop Tutorials Wiki-Book
+site_author: Johanness A. Nilsson - johanness.nilsson@terraformindustries.com
+site_description: Comprehensive machining tutorials from basics to mastery - A collaborative knowledge base for machinists, engineers, and makers
+docs_dir: docs
+site_dir: site
+repo_url: https://github.com/JoNilsson/machine-shop-tutorials
+repo_name: JoNilsson/machine-shop-tutorials
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+  palette:
+    - scheme: default
+      primary: blue-grey
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue-grey
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  favicon: images/favicon.png
+  logo: images/logo.png
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang:
+        - en
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2
+      truly_sane: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JoNilsson/machine-shop-tutorials
+      name: View on GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:johanness.nilsson@terraformindustries.com
+      name: Contact Author
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve by
+            <a href="https://github.com/JoNilsson/machine-shop-tutorials/issues/new/?title=[Feedback]+{title}" target="_blank" rel="noopener">opening an issue</a>.
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/JoNilsson/machine-shop-tutorials" target="_blank" rel="noopener">Machine Shop Tutorials Wiki-Book</a> - 
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
+
+nav:
+  - Home: index.md
+  - Drill Press Mastery:
+    - Overview: drill_press/index.md
+    - Core Skills:
+      - Drill Bit Basics: drill_press/drill_bit_basics.md
+      - Layout & Marking: drill_press/layout_and_marking.md
+      - Work Holding & Safety: drill_press/work_holding_safety.md
+      - Speeds, Feeds & Fluids: drill_press/speeds_feeds_fluids.md
+      - Drilling Technique: drill_press/drilling_technique.md
+    - Advanced Topics:
+      - Material Specific: drill_press/material_specific.md
+      - Specialized Equipment: drill_press/specialized_equipment.md
+      - Precision Techniques: drill_press/precision_techniques.md
+      - Troubleshooting: drill_press/troubleshooting_guide.md
+  - Band Saw Operations:
+    - Overview: band_saw/index.md
+    - Blade Selection: band_saw/blade_selection.md
+    - Cutting Techniques: band_saw/cutting_techniques.md
+    - Horizontal Setup: band_saw/horizontal_saw_setup.md
+    - Horizontal vs Vertical: band_saw/horizontal_vs_vertical.md
+    - Speeds & Materials: band_saw/speeds_and_materials.md
+  - Precision Layout:
+    - Overview: bolt_circles/index.md
+    - 4 & 8 Hole Patterns: bolt_circles/4_8_hole_patterns.md
+    - 5 Hole Pattern: bolt_circles/5_hole_pattern.md
+    - 6 Hole Pattern: bolt_circles/6_hole_pattern.md
+  - Fundamental Skills:
+    - Overview: fundamentals/index.md
+    - Dial Indicator Mastery: fundamentals/dial_indicator_mastery.md
+    - Edge Finding: fundamentals/edge_finding_techniques.md
+    - Work Holding Secrets: fundamentals/work_holding_secrets.md
+  - Measurement & QC:
+    - Overview: measurement/index.md
+    - Basic Tools: measurement/basic_measuring_tools.md
+    - GD&T Basics: measurement/gdt_basics.md
+    - Shop Floor Inspection: measurement/shop_floor_inspection.md
+    - Surface Finish: measurement/surface_finish.md
+  - Shop Efficiency:
+    - Overview: shop_efficiency/index.md
+    - Making Soft Jaws: shop_efficiency/making_soft_jaws.md
+    - Quick Change Tooling: shop_efficiency/quick_change_tooling.md
+    - Shop Made Tools: shop_efficiency/shop_made_tools.md
+  - About:
+    - Contributing: about/CONTRIBUTING.md
+    - Building the Book: about/BUILDING.md
+    - Authors: about/AUTHORS.md
+    - License: about/LICENSE.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
