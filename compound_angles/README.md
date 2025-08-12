@@ -4,9 +4,15 @@ Author: Johannes A. Nilsson
 
 ## The Problem Nobody Warns You About
 
-So the print says "drill 3/8 hole at 35° from surface, 15° from edge." Cool story bro, but how the hell do you actually set that up on a Bridgeport?
+So the print says "drill 3/8 hole at 35° from surface, 15° from edge." 
+Cool story bro, but how the hell do you actually set that up on a 
+Bridgeport?
 
-Look, I'm not a machinist. I'm a hacker who needed to make weird parts and figured this out the hard way through a lot of scrap metal and swearing. This tutorial covers the dirty tricks for calculating and setting up compound angles without a 5-axis machine or a math degree, so you don't have to suffer like I did.
+Look, I'm not a machinist. I'm a hacker who needed to make weird parts 
+and figured this out the hard way through a lot of scrap metal and 
+swearing. This tutorial covers the dirty tricks for calculating and 
+setting up compound angles without a 5-axis machine or a math degree, so 
+you don't have to suffer like I did.
 
 ## Understanding Compound Angles
 
