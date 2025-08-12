@@ -1,9 +1,9 @@
 # Drill Bit Basics for Metal Fabrication
 
-Understanding your tools is the first step to drilling success. While it might 
-seem like all drill bits are created equal, the differences between types, 
-materials, and designs can make or break your drilling operation. This chapter 
-covers everything you need to know about selecting, using, and maintaining 
+Understanding your tools is the first step to drilling success. While it might
+seem like all drill bits are created equal, the differences between types,
+materials, and designs can make or break your drilling operation. This chapter
+covers everything you need to know about selecting, using, and maintaining
 drill bits for metal fabrication work.
 
 ## Understanding Drill Bits
@@ -92,16 +92,19 @@ good option for harder materials like stainless steel or cast iron.
 ### High-Speed Steel (HSS) - Your Daily Driver
 
 **Bright Polish**:
+
 - Polished so chips don't stick
 - Good chip evacuation
 - This is the standard choice
 
 **Black Oxide**:
+
 - Reduces friction, but only slightly
 - Looks cool (doesn't make it better)
 - Don't get conned and pay extra for it
 
 **Titanium Nitride (TiN) Coated**:
+
 - That gold coating you see
 - NOT made of titanium (Watch out for marketing BS)
 - Lasts slightly longer
@@ -110,6 +113,7 @@ good option for harder materials like stainless steel or cast iron.
 ### Cobalt Drills - For the Tough Stuff
 
 Actually steel with cobalt alloy:
+
 - Use these for stainless steel
 - Use these for hardened materials
 - More expensive
@@ -126,12 +130,14 @@ not spend extra for them on regular drills.
 ### For General Fabrication
 
 **Starter Set**:
+
 - 135° split point HSS
 - Fractional sizes 1/16" to 1/2" by 64ths
 - Bright finish is fine
 - Name brand matters (And USA made if possible)
 
 **Add Later**:
+
 - Number drills - are for tap sizes
 - Letter drills - are for reaming
 - Cobalt drills - are for stainless
@@ -149,12 +155,14 @@ not spend extra for them on regular drills.
 ### Storage
 
 **Do**:
+
 - Keep in index (those metal cases with sizes)
 - Store clean and dry
 - Keep cutting edges protected
 - Sort by size
 
 **Don't**:
+
 - Throw in drawer loose
 - Let them bang together
 - Store wet or oily
@@ -163,12 +171,14 @@ not spend extra for them on regular drills.
 ### Maintenance
 
 **After each use**:
+
 - Wipe clean with oiled rag
 - Check cutting edges
 - Light oil if storing long term
 - Put back in correct slot
 
 **Sharpening** (advanced):
+
 - Drill doctor for small sizes
 - Bench grinder for larger
 - Keep both edges equal

@@ -1,8 +1,8 @@
 # Drilling Technique - Where Sharp Tools Meet Metal
 
-Good technique separates the professionals from the amateurs. Having the right 
-tools is only the beginning - knowing how to use them effectively makes all 
-the difference. This chapter covers the practical techniques that will help 
+Good technique separates the professionals from the amateurs. Having the right
+tools is only the beginning - knowing how to use them effectively makes all
+the difference. This chapter covers the practical techniques that will help
 you drill clean, accurate holes consistently.
 
 ## Setup Checklist
@@ -89,6 +89,7 @@ diameter for standard twist drills.
 | Over 1"         | ~25% of final diameter |
 
 **Material Considerations**:
+
 - Soft materials (aluminum): Can use slightly larger pilots
 - Hard materials (stainless): Use smaller pilots to maintain drill control
 - Thin sheet (under 1/8"): Pilot should be 50% of material thickness
@@ -131,6 +132,7 @@ force is unnecessary and can cause problems.
 ### The Sound Tell
 
 Experienced operators drill by ear:
+
 - Pitch changes = problem
 - Steady sound = good cut
 - Learn your machine's song
@@ -138,6 +140,7 @@ Experienced operators drill by ear:
 ### The One-Shot Rule
 
 Try to drill in one pass when possible:
+
 - Better finish
 - Less work hardening
 - Faster overall
@@ -146,6 +149,7 @@ Try to drill in one pass when possible:
 ### The 90% Rule
 
 At 90% through, ease up:
+
 - Prevents grab
 - Cleaner exit
 - Saves drills
@@ -154,12 +158,14 @@ At 90% through, ease up:
 ### Breaking Through
 
 When you're almost through the material:
+
 1. Feel for reduced resistance
 2. Back off pressure
 3. Let drill finish naturally
 4. Don't force the last bit
 
 This prevents:
+
 - Drill bit grabbing
 - Material tearing
 - Poor hole finish
@@ -177,6 +183,7 @@ slight chamfer to holes. This provides a clean look and prevents cuts.
 My favorite for most work:
 
 **Process**:
+
 1. Countersink in cordless drill
 2. Light pressure
 3. Just break the edge
@@ -184,6 +191,7 @@ My favorite for most work:
 5. Consistent chamfer
 
 **Results**:
+
 - Clean appearance
 - No sharp edges
 - Professional look
@@ -196,6 +204,7 @@ effective at removing burrs, it does not achieve quite the same finish as a
 countersink, though it works especially well on aluminum.
 
 **Technique**:
+
 1. Angle blade to edge
 2. Rotate around hole
 3. Light pressure
@@ -211,5 +220,5 @@ countersink, though it works especially well on aluminum.
 - [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Setting optimal parameters
 - [Precision Techniques](precision_techniques.md) - Advanced drilling methods
 
-**Remember**: Good technique beats expensive tools every time. Take your time, 
+**Remember**: Good technique beats expensive tools every time. Take your time,
 follow the process, and let the drill do the work.

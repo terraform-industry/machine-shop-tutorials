@@ -1,8 +1,8 @@
 # Speeds, Feeds, and Fluids - The Science of Smooth Cutting
 
-Getting your cutting parameters right makes the difference between struggling 
-through each hole and drilling like a professional. This chapter covers the 
-practical formulas and techniques for setting optimal speeds, feeds, and 
+Getting your cutting parameters right makes the difference between struggling
+through each hole and drilling like a professional. This chapter covers the
+practical formulas and techniques for setting optimal speeds, feeds, and
 lubrication for consistent results.
 
 ## Setting Speed - The Simple Formula You'll Actually Use
@@ -14,7 +14,7 @@ travel less distance per revolution.
 
 ## My Baseline Rule
 
-**700 RPM for a 1/2" hole in mild steel**
+### 700 RPM for a 1/2" hole in mild steel
 
 That's it. That's your starting point. Now adjust from there.
 
@@ -38,11 +38,13 @@ For example, moving from 1/2-inch to 1/4-inch holes, I double the speed.
 ## Adjusting for Material
 
 **Softer = Faster**:
+
 - Aluminum: 2x the steel speed
 - Brass: 2x the steel speed
 - Plastic: 3-4x the steel speed
 
 **Harder = Slower**:
+
 - Stainless: 1/2 the steel speed
 - Cast iron: Same as steel (maybe slower)
 - Tool steel: 1/3 the steel speed
@@ -55,19 +57,22 @@ served me well for most fabrication work.
 
 Let's work through some actual setups:
 
-**Example 1: 1/4" Hole in Aluminum**
+### Example 1: 1/4" Hole in Aluminum
+
 1. Start: 700 RPM (1/2" in steel)
 2. Adjust for size: 1400 RPM (1/4" is half of 1/2")
 3. Adjust for material: 2800 RPM (aluminum = 2x)
 4. Set drill press near 2800 RPM
 
-**Example 2: 3/8" Hole in Stainless**
+### Example 2: 3/8" Hole in Stainless
+
 1. Start: 700 RPM (1/2" in steel)
 2. Adjust for size: ~930 RPM (3/8" is 3/4 of 1/2")
 3. Adjust for material: ~465 RPM (stainless = 1/2)
 4. Set drill press around 450-500 RPM
 
-**Example 3: 1" Hole in Mild Steel**
+### Example 3: 1" Hole in Mild Steel
+
 1. Start: 700 RPM (1/2" in steel)
 2. Adjust for size: 350 RPM (1" is 2x of 1/2")
 3. No material adjustment (it's steel)
@@ -86,28 +91,31 @@ Let's work through some actual setups:
 
 ## Feed Pressure by Feel
 
-No numbers here - it's all in the feel! Best tip is to _let the drill bit do 
+No numbers here - it's all in the feel! Best tip is to _let the drill bit do
 the work!_ You want to cut the hole with the least amount of pressure possible.
 
 ### The Right Pressure
+
 - Steady chip flow
 - Drill advances smoothly
 - No forcing required
 - Can maintain by hand
 
 ### Too Much Pressure
+
 - Drill stalls
 - Motor bogs down
 - Chips pack in flutes
 - Drills break
 
 ### Too Little Pressure
+
 - Drill rubs (not cutting)
 - Work hardens
 - Drill dulls quickly
 - Excessive heat (smoke is bad)
 
-Remember: There's no prize for drilling fast. A steady, controlled cut beats 
+Remember: There's no prize for drilling fast. A steady, controlled cut beats
 rushing every time. **Speed is nothing without control!**
 
 ## Cutting Lubricant
@@ -119,18 +127,21 @@ easily, and do not smoke like oil-based alternatives.
 ### Types and When
 
 **Water-based** (like Anchor Lube):
+
 - Stays in place
 - Doesn't smoke
 - Easy cleanup
 - My current favorite
 
 **Cutting oil**:
+
 - Better for tough materials
 - Smokes more
 - Messier
 - Traditional choice
 
 **WD-40**:
+
 - Emergency only
 - Better than nothing
 - Not a real cutting fluid
@@ -140,6 +151,7 @@ easily, and do not smoke like oil-based alternatives.
 ### Application
 
 **Drill press**:
+
 1. Apply before starting
 2. Add more every few seconds
 3. Flood for deep holes
@@ -157,30 +169,35 @@ indicates good speed and feed rate.
 ### What Good Chips Tell You
 
 **Steel chips**:
+
 - 6's and 9's = perfect speed and feed
 - Consistent curl and break = optimal parameters
 - Slight straw color = acceptable heat
 - Breaking every 1-2 curls = correct brittleness
 
 **What steel chip problems mean**:
+
 - Powder/dust = speed too high or drill dull
 - Long strings = feed too light
 - Blue/purple = overheating, reduce speed
 - Thin wisps = not enough feed pressure
 
 **Aluminum chips**:
+
 - Tight spirals when cutting well
 - Should evacuate easily from flutes
 - Shiny surface, not oxidized
 - May form longer strings (normal)
 
 **Stainless chips**:
+
 - Tighter curls than mild steel
 - Must maintain continuous cutting
 - Should break regularly
 - No discoloration if speed correct
 
 **Cast iron chips**:
+
 - Powdery, granular appearance
 - No real curl formation
 - Dark gray to black color
@@ -191,6 +208,7 @@ Continuous thin chips that break apart easily suggest proper drilling parameters
 ### The Chip Color Guide
 
 For steel:
+
 - Silver = too slow
 - Straw = perfect
 - Blue = acceptable

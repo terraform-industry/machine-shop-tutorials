@@ -12,6 +12,7 @@ exceptions.
 ## Learning Path
 
 ### Prerequisites
+
 - Basic shop safety knowledge
 - Ability to read a ruler
 - Understanding of RPM (revolutions per minute)
@@ -23,26 +24,31 @@ New to metalworking? Start with the [fundamental skills](../fundamental_skills/R
 Master these fundamentals before moving to advanced topics:
 
 ### 1. [Drill Bit Basics](./drill_bit_basics.md)
+
 Understanding twist drills, point angles, materials, and what actually makes a
 drill bit cut. Learn the critical difference between 118° and 135° points, why
 split points matter, and what drill bits to buy (and which to avoid).
 
 ### 2. [Layout and Marking](./layout_and_marking.md)  
+
 Getting your holes in the right place every time. From quick Sharpie marks to
 precision scribe lines, learn the techniques that prevent scrapped parts and
 broken bits.
 
 ### 3. [Work Holding & Safety](./work_holding_safety.md)
+
 How to keep parts from becoming projectiles. Covers vise techniques, table
 modifications, clamping methods, and real injury examples that drive home why
 this isn't optional.
 
 ### 4. [Speeds, Feeds & Fluids](./speeds_feeds_fluids.md)
+
 The simple 700 RPM rule that actually works. Learn to calculate speeds for any
 material, read your chips like a pro, and understand when and how to use
 cutting fluids.
 
 ### 5. [Drilling Technique](./drilling_technique.md)
+
 Where sharp tools meet metal. Covers the complete drilling process, pilot
 holes, peck drilling, breakthrough techniques, and essential deburring methods.
 
@@ -51,19 +57,23 @@ holes, peck drilling, breakthrough techniques, and essential deburring methods.
 Once you've mastered the basics:
 
 ### 6. [Material-Specific Techniques](./material_specific.md)
+
 Stainless steel, aluminum, cast iron, brass, and plastics all drill
 differently. Learn the specific techniques, speeds, and tricks for each
 material.
 
 ### 7. [Specialized Equipment](./specialized_equipment.md)
+
 Annular cutters, magnetic drills, step drills, and pipe beveling tools. When
 standard drilling isn't enough, these tools solve specific problems.
 
 ### 8. [Precision Techniques](./precision_techniques.md)
+
 Step drilling, reaming, countersinking, and achieving aerospace tolerances.
 For when "good enough" isn't good enough.
 
 ### 9. [Troubleshooting Guide](./troubleshooting_guide.md)
+
 Comprehensive guide to solving drilling problems. Oversized holes, poor
 finish, broken drills, work hardening - identify and fix issues before they
 cost you time and money.
@@ -71,6 +81,7 @@ cost you time and money.
 ## Quick Reference Guides
 
 ### Speed Calculator (Mild Steel Baseline)
+
 | Drill Size | RPM  | Multiplier |
 |------------|------|------------|
 | 1"         | 350  | 0.5x       |
@@ -81,6 +92,7 @@ cost you time and money.
 **Material adjustments:** Aluminum 2x | Stainless 0.5x | Cast Iron 1x
 
 ### Pilot Hole Sizing
+
 | Final Hole | Pilot Size |
 |------------|------------|
 | 1/4"-1/2"  | 1/8"       |
@@ -89,6 +101,7 @@ cost you time and money.
 | Over 1"    | 25% of final |
 
 ### Chip Color Guide (Steel)
+
 - **Silver** = Too slow
 - **Straw** = Perfect
 - **Blue** = Acceptable but hot
@@ -113,6 +126,7 @@ cost you time and money.
 ## Tools You Actually Need
 
 ### Essential
+
 - 135° split point HSS drill set (1/16" to 1/2")
 - 6" drill press vise
 - Center punch
@@ -120,12 +134,14 @@ cost you time and money.
 - Deburring tool
 
 ### Recommended
+
 - Cobalt drills for stainless
 - Step drill for sheet metal
 - Parallels and V-blocks
 - Transfer punch set
 
 ### Nice to Have
+
 - Annular cutters
 - Reamer set
 - Countersink set

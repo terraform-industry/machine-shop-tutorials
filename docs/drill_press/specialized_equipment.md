@@ -1,8 +1,8 @@
 # Specialized Drilling Equipment
 
 Beyond the standard drill press lies a world of specialized tools designed for
-specific applications. While not essential for basic fabrication work, 
-understanding these tools expands your capabilities and helps you recognize 
+specific applications. While not essential for basic fabrication work,
+understanding these tools expands your capabilities and helps you recognize
 when standard drilling techniques have reached their limits.
 
 ## Annular Cutting with Magnetic Drills
@@ -57,6 +57,7 @@ sufficient for operation.
 ### Applications
 
 Ideal for:
+
 - Structural steel fabrication
 - Heavy plate work  
 - Field drilling operations
@@ -94,12 +95,14 @@ where weld quality directly impacts safety.
 ### Applications and Benefits
 
 **Primary uses**:
+
 - Weld preparation on pipe systems
 - Facing pipe ends for flanging
 - Creating precise angular cuts
 - Removing mill scale and irregularities
 
 **Advantages over manual methods**:
+
 - Consistent bevel angles
 - Superior surface finish
 - Faster than grinding or machining
@@ -109,12 +112,14 @@ where weld quality directly impacts safety.
 ### Operating Considerations
 
 **Setup requirements**:
+
 - Adequate working clearance around pipe
 - Power source (usually 110V or pneumatic)
 - Proper tooling for material and angle
 - Safety equipment for metal chips
 
 **Limitations**:
+
 - Pipe diameter ranges (usually 2" minimum)
 - Wall thickness requirements
 - Access limitations in tight spaces
@@ -128,12 +133,14 @@ for their unique applications:
 ### Optimal Use Cases
 
 **Sheet metal work**:
+
 - Multiple hole sizes from one tool
 - Reduced cutting forces per step
 - Self-deburring action
 - Excellent for hand drilling
 
 **Electrical work**:
+
 - Clean holes in panel boxes
 - Multiple conduit sizes
 - Reduced tool inventory
@@ -142,12 +149,14 @@ for their unique applications:
 ### Limitations to Remember
 
 **Thickness restrictions**:
+
 - Maximum 3mm (1/8") in steel
 - Up to 4mm in aluminum with coolant
 - Flutes clog in thicker material
 - Steps lose effectiveness in thick sections
 
 **Material suitability**:
+
 - Excellent for sheet metals
 - Poor for structural materials  
 - Not for hardened materials
@@ -158,6 +167,7 @@ for their unique applications:
 ### Carbide Drills
 
 For production environments or difficult materials:
+
 - Superior wear resistance
 - Higher cutting speeds possible
 - Brittle - require rigid setup
@@ -167,6 +177,7 @@ For production environments or difficult materials:
 ### Left-Hand Drills
 
 Specialized for broken bolt extraction:
+
 - Reverse cutting direction
 - May back out broken fasteners
 - Combined with easy-outs
@@ -175,6 +186,7 @@ Specialized for broken bolt extraction:
 ### Stub Length Drills
 
 For maximum rigidity:
+
 - Shorter than standard length
 - Reduced deflection
 - Better for precision work
@@ -188,5 +200,5 @@ For maximum rigidity:
 - [Work Holding and Safety](work_holding_safety.md) - Safety considerations for specialized equipment
 - [Material-Specific Techniques](material_specific.md) - When to use specialized tools
 
-**Remember**: Specialized tools solve specific problems. Understand the 
+**Remember**: Specialized tools solve specific problems. Understand the
 limitations of standard techniques before investing in specialty equipment.

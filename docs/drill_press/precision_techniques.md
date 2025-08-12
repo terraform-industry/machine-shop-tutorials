@@ -1,8 +1,8 @@
 # Precision Drilling Techniques
 
-When standard drilling isn't accurate enough, precision techniques bridge the 
-gap to machining-level results. These methods require more setup time and 
-attention to detail, but they deliver the accuracy and surface finish needed 
+When standard drilling isn't accurate enough, precision techniques bridge the
+gap to machining-level results. These methods require more setup time and
+attention to detail, but they deliver the accuracy and surface finish needed
 for critical applications.
 
 ## Advanced Drilling Techniques
@@ -15,13 +15,15 @@ approximately 1/4 the final diameter, then enlarge in increments of no more
 than 50% diameter increase per step. This approach maintains better hole
 position and reduces the torque requirements on the drill motor.
 
-**Example: Drilling a 1" hole in 1/2" steel plate**
+### Example: Drilling a 1" hole in 1/2" steel plate
+
 1. Start with 1/4" pilot hole
-2. Step to 3/8" 
+2. Step to 3/8"
 3. Step to 5/8"
 4. Final pass at 1"
 
 This method:
+
 - Maintains better accuracy
 - Reduces drilling forces
 - Extends tool life  
@@ -38,13 +40,15 @@ equipment optimize this process, but manual peck drilling works with careful
 attention to technique.
 
 **Peck drilling technique**:
+
 1. Drill one diameter depth
-2. Retract completely 
+2. Retract completely
 3. Clear chips from flutes
 4. Reapply cutting fluid
 5. Resume drilling
 
 **Critical points**:
+
 - Complete retraction necessary
 - Don't dwell at bottom of hole
 - Maintain cutting fluid
@@ -57,12 +61,14 @@ Using a small drill bit to cut around the perimeter of a large circle,
 leaving material in the center that can be removed afterward.
 
 **Applications**:
+
 - Holes larger than available drill bits
 - Thin material where breakthrough is critical
 - Creating rings or washers
 - Material conservation
 
 **Technique considerations**:
+
 - Requires careful layout
 - Multiple overlapping cuts
 - Secondary cleanup operations
@@ -79,6 +85,7 @@ drilling speed for the same diameter. Chatter during these operations often
 indicates excessive speed, worn tools, or inadequate work holding.
 
 **Countersinking technique**:
+
 1. Drill hole to tap size first
 2. Select proper angle countersink (usually 82°)
 3. Use 50-60% of normal drilling speed
@@ -86,6 +93,7 @@ indicates excessive speed, worn tools, or inadequate work holding.
 5. Test fit fastener frequently
 
 **Common problems**:
+
 - Chatter from excessive speed
 - Oversized countersinks from poor technique
 - Off-center sinks from pilot hole problems
@@ -95,6 +103,7 @@ indicates excessive speed, worn tools, or inadequate work holding.
 Creates flat-bottomed recesses for socket head cap screws and washers:
 
 **Process**:
+
 1. Drill through hole first
 2. Select counterbore with pilot
 3. Set depth carefully
@@ -102,6 +111,7 @@ Creates flat-bottomed recesses for socket head cap screws and washers:
 5. Steady feed rate
 
 **Advantages of piloted counterbores**:
+
 - Self-centering on existing hole
 - Consistent depth control
 - Better surface finish
@@ -118,12 +128,14 @@ engaged - this destroys the cutting edges immediately.
 ### Reaming Fundamentals
 
 **Purpose of reaming**:
+
 - Achieve tight tolerances (±0.0005" possible)
 - Superior surface finish
 - Straight, round holes
 - Size correction for drilled holes
 
 **Reaming process**:
+
 1. Drill 0.010-0.015" undersize
 2. Use hand reamer or machine reamer
 3. Steady, continuous feed
@@ -133,6 +145,7 @@ engaged - this destroys the cutting edges immediately.
 ### Hand Reaming vs Machine Reaming
 
 **Hand reamers**:
+
 - Straight flutes
 - Operated by tap handle
 - Better feel and control
@@ -140,6 +153,7 @@ engaged - this destroys the cutting edges immediately.
 - Ideal for critical work
 
 **Machine reamers**:
+
 - Helical flutes
 - Driven by drill press
 - Faster operation  
@@ -154,6 +168,7 @@ engaged - this destroys the cutting edges immediately.
 **Stock removal**: 0.010-0.015" maximum
 
 **Critical rules**:
+
 - Never stop feeding while reamer turns
 - Never reverse under power
 - Keep reamer sharp
@@ -166,12 +181,14 @@ engaged - this destroys the cutting edges immediately.
 When holes must be drilled at angles to multiple surfaces:
 
 **Setup methods**:
+
 - Sine plates for precise angles
 - Adjustable angle plates
 - V-blocks for round stock
 - Custom fixtures for production
 
 **Considerations**:
+
 - Drill bit deflection increases
 - Work holding becomes critical
 - Pilot holes more important
@@ -180,12 +197,14 @@ When holes must be drilled at angles to multiple surfaces:
 ### Holding Work at Angles
 
 **Sine plates**:
+
 - Precise angle setting
 - Stable work platform
 - Requires setup time
 - Excellent accuracy
 
 **Adjustable angle plates**:
+
 - Quick angle changes
 - Less precise than sine plates
 - Good for rough work
@@ -205,12 +224,14 @@ Before precision work, verify drill press spindle accuracy:
 ### Work Positioning Methods
 
 **Edge finders**:
+
 - Locate part edges precisely
 - Electronic types more accurate
 - Essential for coordinate drilling
 - Requires steady technique
 
 **Dial indicators**:
+
 - Check part alignment
 - Verify perpendicularity  
 - Monitor setup accuracy
@@ -221,12 +242,14 @@ Before precision work, verify drill press spindle accuracy:
 When drilling multiple identical parts:
 
 **Dedicated fixtures**:
+
 - Consistent part positioning
 - Built-in work holding
 - Quick loading/unloading
 - Worth investment for quantity
 
 **Modular fixturing**:
+
 - Flexible setup options
 - Reusable components
 - Good for varied work
@@ -240,5 +263,5 @@ When drilling multiple identical parts:
 - [Work Holding and Safety](work_holding_safety.md) - Critical for precision operations
 - [Troubleshooting Guide](troubleshooting_guide.md) - When precision techniques go wrong
 
-**Remember**: Precision techniques require patience and attention to detail. 
+**Remember**: Precision techniques require patience and attention to detail.
 Don't expect machining-level results without machining-level care in your setup and execution.

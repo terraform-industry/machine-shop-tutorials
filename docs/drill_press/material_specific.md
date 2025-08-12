@@ -1,8 +1,8 @@
 # Material-Specific Drilling Techniques
 
-Different materials behave differently under the drill bit. What works 
-perfectly for mild steel might destroy your drill when used on stainless. 
-This chapter covers the specific techniques, speeds, and considerations for 
+Different materials behave differently under the drill bit. What works
+perfectly for mild steel might destroy your drill when used on stainless.
+This chapter covers the specific techniques, speeds, and considerations for
 various materials you'll encounter in metal fabrication.
 
 ## Drilling Stainless Steel
@@ -104,6 +104,7 @@ drilling a smaller pilot hole first to reduce cutting forces.
 
 Aluminum is generally easier to drill than steel, but it presents its own
 challenges:
+
 - Soft material can cause built-up edge on drill bits
 - Excellent thermal conductivity spreads heat quickly
 - Tends to gall and stick to cutting edges
@@ -112,11 +113,13 @@ challenges:
 ### Speed and Feed Parameters
 
 **Speed**: Use 2x the speed you would for steel
+
 - 1/2" hole: 1400 RPM (vs 700 for steel)
 - Faster speeds prevent built-up edge formation
 - Higher speeds improve surface finish
 
 **Feed**: Moderate pressure
+
 - Steady chip production
 - Avoid light feeds that cause rubbing
 - Clear chips frequently to prevent packing
@@ -124,12 +127,14 @@ challenges:
 ### Drill Bit Selection
 
 **For aluminum**:
+
 - Standard HSS works fine
 - Bright finish prevents sticking
 - Sharp drills essential
 - Split point helpful but not critical
 
 **Avoid**:
+
 - Dull drill bits (cause tearing)
 - Black oxide coatings (chips stick more)
 - Excessive coatings
@@ -137,12 +142,14 @@ challenges:
 ### Cutting Fluids
 
 **Best choices**:
+
 - WD-40 in a pinch
 - Water-based coolants
 - Light cutting oils
 - Even soap and water works
 
 **Application**:
+
 - Keep drill and work wet
 - Helps with chip evacuation
 - Prevents built-up edge
@@ -151,18 +158,21 @@ challenges:
 ## Cast Iron Considerations
 
 ### Material Characteristics
+
 - Abrasive material
 - Creates powdery chips
 - No coolant typically needed
 - Hard on cutting edges
 
 ### Drilling Parameters
+
 - Use steel speeds (1x multiplier)
 - Steady feed pressure
 - Expect shorter drill life
 - Plan for frequent sharpening
 
 ### Special Considerations
+
 - Creates dust, not chips
 - Use dust collection if possible
 - Harder on equipment
@@ -171,12 +181,14 @@ challenges:
 ## Brass and Bronze
 
 ### Easy Drilling Materials
+
 - Cut freely with standard techniques
 - Use 2x steel speeds
 - Good surface finishes possible
 - Standard HSS drills work well
 
 ### Considerations
+
 - Can work harden if rubbed
 - Some alloys contain lead (ventilation!)
 - May require deburring

@@ -17,6 +17,7 @@ eyeball the center.
 ### Sharpie and Square - Quick and Dirty
 
 What I use for most of my fabrication work:
+
 - Sharpie marker (medium point)
 - Speed square or combo square
 - Mark your lines
@@ -28,13 +29,13 @@ What I use for most of my fabrication work:
 
 When ±1/16" won't cut it:
 
-![Pocket Carbide Scribe, don't leave home without it!](./images/70AX_pocket_scribe.png)
+![Pocket Carbide Scribe, don't leave home without it!](/images/70AX_pocket_scribe.png)
 _Never be without a good quality pocket scribe!_
 
 For more precision, I use a scribe. I particularly like a small square that
 combines features of a combination square and a machinist square:
 
-![Starrett 150mm Machinists Square](./images/machinists_square.png)  
+![Starrett 150mm Machinists Square](/images/machinists_square.png)  
 _That little combo square/machinist square hybrid:_
 
 - Set length precisely
@@ -43,7 +44,7 @@ _That little combo square/machinist square hybrid:_
 - Way faster than measuring each time
 - Has a built in scribe (don't lose it!)
 
-You can set the length needed and scribe along the edge. For even more precision, 
+You can set the length needed and scribe along the edge. For even more precision,
 layout fluid helps you see scribed lines clearly against the metal surface. If you
 lack layout fluid, coloring with a marker can help track lines, though it
 does not work as well.
@@ -51,6 +52,7 @@ does not work as well.
 ### Caliper Scribing - Shop Controversial
 
 Yeah, it makes the internet mad, but it works:
+
 1. Set your dimension
 2. One jaw on edge of material
 3. Drag to scribe line
@@ -63,6 +65,7 @@ The problem is it's hard to see scribed lines and they look like other scratches
 When you need to see what you're doing:
 
 **Blue dye** (Dykem or similar):
+
 1. Clean surface
 2. Apply thin coat
 3. Let dry (30 seconds)
@@ -70,6 +73,7 @@ When you need to see what you're doing:
 5. Removes with acetone
 
 **Poor man's version**:
+
 - Jumbo Chisel Sharpie over the area
 - Scribe through it
 - Not as good but works
@@ -82,18 +86,20 @@ wandering, especially when hand drilling. I use old-school style center
 punches with a 90-degree point. These work well on most materials including
 aluminum and steel, giving a good point for the drill to follow.
 
-![Automatic Center Punching - Punch Marks the Spot!](./images/automatic_center_punch.jpg)
+![Automatic Center Punching - Punch Marks the Spot!](/images/automatic_center_punch.jpg)
 
 ### Automatic Center Punches
 
 The spring-loaded ones are my preference for most work:
 
 **Good**:
+
 - Consistent depth
 - One-handed operation
 - No hammer needed
 
 **Bad**:
+
 - Can slide if you aren't careful
 - Tension adjustment must be appropriate for material
 - Spring mechanisms can fail (Buy Starrett)
@@ -106,6 +112,7 @@ your dimple. However, they can slide around, so some prefer traditional ones.
 More accurate, but not always necessary:
 
 **Center Punching Technique**:
+
 1. Sharp 90° point
 2. Place exactly on mark
 3. Light tap first (just a dimple)
@@ -114,6 +121,7 @@ More accurate, but not always necessary:
 6. Deep enough to guide drill
 
 **Pro tip**: Three taps!
+
 - First: tiny mark
 - Check with magnifier if critical
 - Second: working dimple
@@ -132,6 +140,7 @@ When you need to match existing parts:
 **Transfer Punches**:
 
 Best method for accuracy:
+
 1. Align parts
 2. Clamp together
 3. Transfer punch through holes
@@ -140,6 +149,7 @@ Best method for accuracy:
 **Direct Marking**:
 
 When parts nest together:
+
 1. Clamp in position
 2. Drill through both
 3. Or mark through with scribe
@@ -150,11 +160,13 @@ When parts nest together:
 For mounting plates, etc:
 
 **Method 1 - Measure each**:
+
 - Slow but works
 - Errors accumulate
 - Double-check everything
 
 **Method 2 - Edge reference** (my preferred method):
+
 - Measure from same edge
 - No accumulation
 - More accurate
@@ -164,21 +176,25 @@ For mounting plates, etc:
 ### Layout Errors to Avoid
 
 **Measuring from wrong edge**:
+
 - Always measure from machined surfaces
 - Avoid rough-cut edges
 - Use consistent reference points
 
 **Poor center punch placement**:
+
 - Punch slips off mark
 - Wrong angle creates wandering
 - Too light won't guide drill
 
 **Accumulating errors**:
+
 - Each measurement adds error
 - Use consistent datums
 - Check critical dimensions twice
 
 **Not accounting for drill wander**:
+
 - Even good punches can't fix bad technique
 - Split-point drills are more forgiving
 - Pilot holes help with accuracy
@@ -191,5 +207,5 @@ For mounting plates, etc:
 - [Work Holding and Safety](work_holding_safety.md) - Securing work for accuracy
 - [Drilling Technique](drilling_technique.md) - Following your layout marks
 
-**Remember**: Time spent on layout is never time wasted. It's way faster to mark 
+**Remember**: Time spent on layout is never time wasted. It's way faster to mark
 it right than to remake the part.

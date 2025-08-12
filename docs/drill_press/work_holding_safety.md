@@ -1,6 +1,10 @@
 # Work Holding and Safety - Keeping Parts from Becoming Projectiles
 
-Safety isn't optional in metalworking - it's what keeps you able to work another day. Proper work holding protects both you and your work quality. When parts spin free, they become dangerous projectiles that can cause serious injury. This chapter covers the tools and techniques for keeping your work secure.
+Safety isn't optional in metalworking - it's what keeps you able to work
+another day. Proper work holding protects both you and your work quality.
+When parts spin free, they become dangerous projectiles that can cause
+serious injury. This chapter covers the tools and techniques for keeping
+your work secure.
 
 ## Work Holding - The Foundation of Safe Drilling
 
@@ -13,8 +17,8 @@ cumbersome.
 
 What I did (game changer):
 
-Instead, I drilled 5/8-inch holes in my table to use fixture table hardware 
-for holding material in place. This keeps everything locked down and provides 
+Instead, I drilled 5/8-inch holes in my table to use fixture table hardware
+for holding material in place. This keeps everything locked down and provides
 options for anti-rotation stops.
 
 1. Drilled 5/8" holes in table
@@ -24,6 +28,7 @@ options for anti-rotation stops.
 5. Rock solid holding
 
 Now I can:
+
 - Drop pins anywhere
 - Use standard clamps
 - Set up stops quickly
@@ -37,6 +42,7 @@ through slots, I use clamps to hold the vise in position after aligning the
 part under the drill.
 
 **My preferred method** (fast):
+
 1. Position vise under spindle
 2. Find hole with center punch
 3. Clamp vise to table
@@ -45,18 +51,21 @@ part under the drill.
 ## Advanced Vise Work Techniques
 
 ### Parallels
+
 - Lift work above jaws
 - Consistent height
 - Prevents jaw marks
 - Essential for accurate work
 
 ### V-blocks
+
 - Hold round stock
 - Prevents rotation
 - Centers automatically
 - Magnetic ones are handy
 
 ### Soft jaws
+
 - Protect finished surfaces
 - Custom shapes
 - Aluminum or copper
@@ -65,6 +74,7 @@ part under the drill.
 ## Toggle Clamps for Production Work
 
 For repetitive work:
+
 - Mount to fixture plate
 - Quick open/close
 - Consistent pressure
@@ -74,6 +84,7 @@ For repetitive work:
 ## Work Holding Kit Recommendations
 
 ### Must Have
+
 - 6" drill press vise
 - Set of clamps
 - Step blocks
@@ -81,6 +92,7 @@ For repetitive work:
 - V-blocks
 
 ### Should Have
+
 - Angle plate
 - Toggle clamps
 - Soft jaw material
@@ -88,6 +100,7 @@ For repetitive work:
 - Fixture plate
 
 ### Nice to Have
+
 - Magnetic vise jaws
 - Rotary table
 - Sine vise
@@ -105,7 +118,9 @@ For repetitive work:
 
 ### Real Safety Examples
 
-That innocent piece of aluminum becomes a spinning blade when a drill grabs. I've seen:
+That innocent piece of aluminum becomes a spinning blade when a drill grabs.
+I've seen:
+
 - Parts thrown across shops
 - Fingers broken
 - Deep lacerations
@@ -117,12 +132,14 @@ That innocent piece of aluminum becomes a spinning blade when a drill grabs. I'v
 ### When Things Go Wrong
 
 Drill presses have tremendous torque. When a drill bit grabs:
+
 - Material spins instantly
 - Sharp edges become weapons
 - Fingers get caught
 - Damage happens fast
 
 **Prevention is everything**:
+
 - Proper work holding
 - Correct speeds and feeds
 - Sharp drill bits
@@ -132,6 +149,7 @@ Drill presses have tremendous torque. When a drill bit grabs:
 ### Emergency Procedures
 
 **If the drill grabs**:
+
 1. Hit the stop switch immediately
 2. Don't try to catch spinning parts
 3. Clear the area
@@ -139,6 +157,7 @@ Drill presses have tremendous torque. When a drill bit grabs:
 5. Assess damage safely
 
 **Power failures**:
+
 - Know where your manual release is
 - Have backup lighting
 - Never leave work unattended
@@ -152,12 +171,14 @@ Many hesitate to modify their drill press table, but it's one of the best
 improvements you can make:
 
 **Before drilling**:
+
 - Plan your hole pattern
 - Use quality hardware
 - Consider future needs
 - Make it reversible if possible
 
 **Hole spacing**:
+
 - 3" grid works for most work
 - Closer for small parts
 - Further apart saves time
@@ -166,6 +187,7 @@ improvements you can make:
 ### Alternative Solutions
 
 If you can't modify your table:
+
 - Removable sub-tables
 - Magnetic bases
 - Auxiliary fixtures
@@ -175,8 +197,12 @@ If you can't modify your table:
 
 ## Related Chapters
 
-- [Layout and Marking](layout_and_marking.md) - Accurate positioning before clamping
-- [Drilling Technique](drilling_technique.md) - Proper technique prevents grabbing
-- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Correct parameters reduce grab risk
+- [Layout and Marking](layout_and_marking.md) - Accurate positioning before
+  clamping
+- [Drilling Technique](drilling_technique.md) - Proper technique prevents
+  grabbing
+- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Correct parameters
+  reduce grab risk
 
-**Remember**: Good work holding keeps you safe, improves accuracy, and speeds up work. There's no excuse for hand-holding parts on a drill press.
+**Remember**: Good work holding keeps you safe, improves accuracy, and
+speeds up work. There's no excuse for hand-holding parts on a drill press.
