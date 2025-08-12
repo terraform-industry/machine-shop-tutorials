@@ -4,32 +4,42 @@ Author: Johannes A. Nilsson
 
 ## What Are Shop-Made Tools?
 
-Shop-made tools are cutting tools, holders, and fixtures you make yourself instead of buying. Sometimes the tool you need doesn't exist. Sometimes it costs $500 and you need it for one job. Sometimes you can make it better than what's for sale. This is about taking raw materials and making the exact tool you need.
+Shop-made tools are cutting tools, holders, and fixtures you make yourself
+instead of buying. Sometimes the tool you need doesn't exist. Sometimes it
+costs $500 and you need it for one job. Sometimes you can make it better than
+what's for sale. This is about taking raw materials and making the exact tool
+you need.
 
 ## Why Make Your Own Tools?
 
-**Real Example**: You need to cut a 0.437" radius on 50 parts. A form tool costs $300 and takes 3 weeks to deliver. Or you can grind one from a HSS blank in an hour for $5.
+**Real Example**: You need to cut a 0.437" radius on 50 parts. A form
+tool costs $300 and takes 3 weeks to deliver. Or you can grind one from
+a HSS blank in an hour for $5.
 
 That's why we make tools.
 
 ## Fly Cutters: Your First Shop-Made Tool
 
-A fly cutter is the simplest tool you can make that gives professional results. It's basically a spinning arm with one cutting tool that makes super smooth, flat surfaces.
+A fly cutter is the simplest tool you can make that gives professional
+results. It's basically a spinning arm with one cutting tool that makes super
+smooth, flat surfaces.
 
 ### What Is a Fly Cutter?
 
-Imagine a single-point lathe tool spinning in your mill. That's a fly cutter. It takes a wide, shallow cut and leaves a mirror finish. Way better than face milling with an end mill.
+Imagine a single-point lathe tool spinning in your mill. That's a fly
+cutter. It takes a wide, shallow cut and leaves a mirror finish. Way better
+than face milling with an end mill.
 
 ### Making a Basic Fly Cutter
 
-**What You'll Need**:
+#### What You'll Need
 
 - 2-3" diameter steel round (1018 works fine)
 - HSS tool bit blank (3/8" or 1/2" square)
 - Set screws
 - Basic lathe and mill
 
-**Step-by-Step Process**:
+#### Step-by-Step Process
 
 1. **Make the Body**
 
@@ -60,13 +70,13 @@ Imagine a single-point lathe tool spinning in your mill. That's a fly cutter. It
 
 This is where the magic happens. You're making the actual cutting edge.
 
-**Basic Geometry**:
+#### Basic Geometry
 
 - **Top rake**: 5-10° positive (slopes down from cutting edge)
 - **Side clearance**: 10-15° (so only the edge touches)
 - **Nose radius**: 0.015-0.030" (prevents sharp corners that break)
 
-**How to Grind**:
+#### How to Grind
 
 1. Use a bench grinder with a fine wheel
 2. Keep the tool cool (dip in water frequently)
@@ -83,21 +93,24 @@ This is where the magic happens. You're making the actual cutting edge.
 
 ## Boring Bars: Custom Hole Sizes
 
-A boring bar is a tool for making precise holes to any diameter. Think of it as an adjustable reamer that you make yourself.
+A boring bar is a tool for making precise holes to any diameter. Think of it
+as an adjustable reamer that you make yourself.
 
 ### What's a Boring Bar?
 
-It's a steel bar with a cutting tool at the end. You stick it in a hole and it cuts the inside to make it bigger and more accurate. Essential when you need a hole size that doesn't match any standard tools.
+It's a steel bar with a cutting tool at the end. You stick it in a hole and
+it cuts the inside to make it bigger and more accurate. Essential when you
+need a hole size that doesn't match any standard tools.
 
 ### Simple HSS Boring Bar
 
-**Starting Material**:
+#### Starting Material
 
 - Steel rod (4140 is good, cold roll works too)
 - Diameter = 50-65% of your smallest hole
 - Length = 4x diameter maximum (longer = more chatter)
 
-**Making Process**:
+#### Making Process
 
 1. **Prepare the Shank**
 
@@ -107,7 +120,7 @@ It's a steel bar with a cutting tool at the end. You stick it in a hole and it c
 
 2. **Grind the Cutting End**
 
-   ```
+   ```text
    Side view:       Top view:
 
       |\              _____
@@ -118,7 +131,7 @@ It's a steel bar with a cutting tool at the end. You stick it in a hole and it c
    Relief angle     Clearance prevents rubbing
    ```
 
-3. **Key Angles**:
+#### Key Angles
    - Front clearance: 10-15°
    - Side clearance: 5-10°
    - Side rake: 5-10° positive
@@ -126,14 +139,14 @@ It's a steel bar with a cutting tool at the end. You stick it in a hole and it c
 
 ### When to Make vs Buy
 
-**Make Your Own**:
+#### Make Your Own
 
 - Odd sizes (like 0.7835" for that weird bearing)
 - Long reach applications
 - Special profiles (like back boring)
 - Learning experience
 
-**Buy Commercial**:
+#### Buy Commercial
 
 - Standard sizes you'll use often
 - Carbide insert bars for production
@@ -142,17 +155,19 @@ It's a steel bar with a cutting tool at the end. You stick it in a hole and it c
 
 ## Form Tools: Making Complex Shapes
 
-Form tools cut specific profiles in one pass. Need a special radius? Odd angle? Custom groove? Make a form tool.
+Form tools cut specific profiles in one pass. Need a special radius? Odd
+angle? Custom groove? Make a form tool.
 
 ### Understanding Form Tools
 
-Instead of moving the tool to create a shape, the tool IS the shape. One plunge cut or pass creates the entire profile.
+Instead of moving the tool to create a shape, the tool IS the shape. One
+plunge cut or pass creates the entire profile.
 
 ### Making a Simple Radius Tool
 
 Let's say you need a 1/4" radius on the edge of parts.
 
-**Process**:
+#### Process
 
 1. **Start with HSS Blank**
 
@@ -188,20 +203,21 @@ Let's say you need a 1/4" radius on the edge of parts.
 
 ## Special Holders and Arbors
 
-Sometimes the challenge isn't the cutting tool - it's holding the work. Custom arbors and holders solve weird work-holding problems.
+Sometimes the challenge isn't the cutting tool - it's holding the work.
+Custom arbors and holders solve weird work-holding problems.
 
 ### Between Centers Turning Arbor
 
 For turning work that's already bored.
 
-**What It Is**:
+#### What It Is
 
 - Steel shaft with 60° centers on both ends
 - Work slides onto shaft
 - Dog drives the work
 - Perfect concentricity
 
-**Making One**:
+#### Making One
 
 1. Turn between centers (yes, to make a between centers arbor)
 2. Get diameter 0.0005" under your bore size
@@ -213,9 +229,9 @@ For turning work that's already bored.
 
 Holds work from the inside of a bore.
 
-**Design**:
+#### Design
 
-```
+```text
    Slots cut lengthwise
    |  |  |
    v  v  v
@@ -226,7 +242,7 @@ Draw bolt pulls tapered plug
 expanding the slotted section
 ```
 
-**Making Tips**:
+#### Making Tips
 
 - 3-4 slots evenly spaced
 - 1° taper over working length
@@ -237,36 +253,44 @@ expanding the slotted section
 
 ### High Speed Steel (HSS)
 
-**What It Is**: Tool steel that stays hard when hot
+#### What It Is
 
-**Why Use It**:
+Tool steel that stays hard when hot
+
+#### Why Use It
 
 - Cheap and available
 - Can grind to any shape
 - Resharpenable forever
 - Good for learning
 
-**Best For**: Lathe tools, boring bars, form tools
+#### Best For
+
+Lathe tools, boring bars, form tools
 
 ### Carbide
 
-**What It Is**: Tungsten carbide - way harder than HSS
+#### What It Is
 
-**Types**:
+Tungsten carbide - way harder than HSS
+
+#### Types
 
 - **Brazed carbide**: Carbide tip silver-soldered to steel body
 - **Insert tooling**: Replaceable carbide inserts in steel holders
 
-**Why Use It**:
+#### Why Use It
 
 - Stays sharp longer
 - Cuts faster
 - Handles interrupted cuts
 - Better finish
 
-**Best For**: Production tools, hard materials
+#### Best For
 
-### When to Heat Treat
+Production tools, hard materials
+
+### Heat Treatment Guidelines
 
 **O1 Tool Steel** (easiest DIY):
 
@@ -276,7 +300,7 @@ expanding the slotted section
 4. Temper in oven at 204°C for 1 hour
 5. Should be straw yellow color
 
-**When to Send Out**:
+#### When to Send Out for Heat Treatment
 
 - Complex shapes (less warping)
 - Critical tools
@@ -287,7 +311,7 @@ expanding the slotted section
 
 ### Testing New Tools
 
-**Always**:
+#### Always
 
 1. Start at 1/4 normal speed
 2. Take a 0.001" test cut
@@ -337,20 +361,22 @@ expanding the slotted section
 
 ### Example: Radius Form Tool
 
-**Buy It**:
+#### Buy It
 
 - $300+ custom ground
 - 2-3 week delivery
 - Single radius only
 
-**Make It**:
+#### Make It
 
 - $5 HSS blank
 - 2 hours labor
 - Any radius you want
 - Ready today
 
-**Break Even**: One job
+#### Break Even
+
+One job
 
 ### Hidden Benefits
 
@@ -373,7 +399,9 @@ Keep a document with:
 - Speed/feed that worked
 - Problems encountered
 
-**Why**: You or your protégé will need to make another someday
+#### Why
+
+You or your protégé will need to make another someday
 
 ## Getting Started
 
@@ -390,7 +418,9 @@ To start making tools you need:
 
 ### First Purchase
 
-**HSS Blank Set**: About $30 gets you:
+#### HSS Blank Set
+
+About $30 gets you:
 
 - Various sizes of square blanks
 - Ready to grind
@@ -399,11 +429,18 @@ To start making tools you need:
 
 ## Final Advice
 
-Making your own tools is a journey into the world of Machining. Your first fly cutter will probably look butt-ugly but if it cuts, it's good. Your tenth will be a work of art.
+Making your own tools is a journey into the world of Machining. Your
+first fly cutter will probably look butt-ugly but if it cuts, it's good.
+Your tenth will be a work of art.
 
-Start simple. Make tools that solve real problems in your shop. Every tool you make teaches you something - about working out geometry, about materials and their behavior, about problem solving.
+Start simple. Make tools that solve real problems in your shop. Every
+tool you make teaches you something - about working out geometry, about
+materials and their behavior, about problem solving.
 
-And there's no feeling quite like using a tool you designed and made to solve a problem that had you stumped. That's not just machining - that's actually engineering, craftsmanship, and creativity rolled into one. You will be a hacker of physical space and time.
+And there's no feeling quite like using a tool you designed and made to
+solve a problem that had you stumped. That's not just machining - that's
+actually engineering, craftsmanship, and creativity rolled into one. You
+will be a hacker of physical space and time.
 
-Remember: The best tool is the one that gets the job done safely. Pretty comes with practice, but pretty isn't necessary when you are starting out.
-
+Remember: The best tool is the one that gets the job done safely. Pretty
+comes with practice, but pretty isn't necessary when you are starting out.

@@ -4,8 +4,9 @@ Author: Johannes A. Nilsson
 
 ## Time Is Money, Waste Time and You're Broke
 
-Every minute you spend touching off tools is a minute you're not making parts. Quick change tooling is how you go from job shop schmuck to a production bad-ass.  
-**Set it once, use it forever.**
+Every minute you spend touching off tools is a minute you're not making
+parts. Quick change tooling is how you go from job shop schmuck to a
+production bad-ass. **Set it once, use it forever.**
 
 ## The Problem With Traditional Tooling
 
@@ -18,7 +19,8 @@ Traditional setup process:
 5. Do it all over again next time
 6. Repeat until retirement
 
-That's bullshit and part of the reason for offshoring and American Industrial decline.
+That's bullshit and part of the reason for offshoring and American
+Industrial decline.
 
 ## Quick Change Systems
 
@@ -62,7 +64,8 @@ This is where shit gets real.
 
 1. **Dedicate holders** - Each tool gets its own home
 2. **Set tool length** - Use a height gauge, not paper
-3. **Record offsets** - Ideally in the machine or spreadsheet, not on your lunch napkins
+3. **Record offsets** - Ideally in the machine or spreadsheet, not on your
+   lunch napkins
 4. **Label everything** - Dymo labels save lives
 
 ### The Height Gauge Method
@@ -155,7 +158,9 @@ For drill chucks and boring heads:
   - Stick out length
   - Last sharpened date
 
-I love / hate Spreadsheets. But if you work in a shop with multiple machines spread across multiple teams or projects, there really isn't a better way.
+I love / hate Spreadsheets. But if you work in a shop with multiple
+machines spread across multiple teams or projects, there really isn't a
+better way.
 
 ## Quick Change for Specific Operations
 
@@ -262,7 +267,8 @@ Start small and grow:
 
 Quick change tooling isn't sexy, but it's profitable:
 
-- Reduces setup time by 70% (_I made that up, but it is probably an understatement_)
+- Reduces setup time by 70% (_I made that up, but it is probably an
+  understatement_)
 - Improves repeatability
 - Reduces scrap from wrong offsets
 - Makes you look professional
@@ -270,9 +276,16 @@ Quick change tooling isn't sexy, but it's profitable:
 
 ## Final Words
 
-Quick change tooling is like having an organized toolbox versus a pile of tools on the floor. Sure, you can find what you need eventually in the pile, but the organized system makes you faster, more accurate, and less likely to look like a pleeb or rage quit your job.
+Quick change tooling is like having an organized toolbox versus a pile of
+tools on the floor. Sure, you can find what you need eventually in the pile,
+but the organized system makes you faster, more accurate, and less likely to
+look like a pleeb or rage quit your job.
 
-Start with the basics - a few good holders and a consistent measuring system. As you grow, add more tools to the system. Before you know it, you'll be changing tools faster than the program can run, and that's when you know you are making it.
+Start with the basics - a few good holders and a consistent measuring
+system. As you grow, add more tools to the system. Before you know it, you'll
+be changing tools faster than the program can run, and that's when you know
+you are making it.
 
-Remember: The best quick change system is the one you'll actually use. Don't overcomplicate stuff. Just make it repeatable, document it, and stick to what works.
-
+Remember: The best quick change system is the one you'll actually use. Don't
+overcomplicate stuff. Just make it repeatable, document it, and stick to what
+works.

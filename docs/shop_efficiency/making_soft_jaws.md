@@ -4,7 +4,10 @@ Author: Johannes A. Nilsson
 
 ## Why Soft Jaws Will Change Your Life
 
-Hard jaws are great for general work, but soft jaws are what separate the pros from the weekend warriors. Custom jaws mean perfect holding, no marking, and repeatability that is the only way to make high production work sustainable and profitable.
+Hard jaws are great for general work, but soft jaws are what separate the
+pros from the weekend warriors. Custom jaws mean perfect holding, no marking,
+and repeatability that is the only way to make high production work
+sustainable and profitable.
 
 ## Material Selection
 
@@ -77,7 +80,8 @@ Every soft jaw needs:
 
 ### Initial Setup
 
-**CRITICAL**: Machine soft jaws IN PLACE on your vise. Never remove and replace - they won't be true.
+**CRITICAL**: Machine soft jaws IN PLACE on your vise. Never remove and
+replace - they won't be true.
 
 1. **Install blanks** in vise
 2. **Tighten to working pressure** (not gorilla tight)
@@ -104,7 +108,7 @@ Every soft jaw needs:
 
 **For Round Parts**:
 
-```
+```text
 1. Find center with indicator
 2. Bore to diameter - 0.001"
 3. Check with test part
@@ -113,7 +117,7 @@ Every soft jaw needs:
 
 **For Square Parts**:
 
-```
+```text
 1. Mill first surface
 2. Measure from fixed jaw
 3. Mill second surface
@@ -122,7 +126,7 @@ Every soft jaw needs:
 
 **For Weird Shapes**:
 
-```
+```text
 1. Cry a little
 2. Make a plan
 3. Remove material that isn't soft jaw
@@ -300,7 +304,8 @@ _This one is really only for remote work situation, site installations, etc._
 
 ### The Penny Test
 
-After machining, put a penny in the jaw. Close vise. If penny bends uniformly, jaws are parallel.
+After machining, put a penny in the jaw. Close vise. If penny bends
+uniformly, jaws are parallel.
 
 ### The Wax Treatment (For Aluminum Parts)
 
@@ -373,9 +378,16 @@ For deep jaws, use a boring bar instead of long end mills.
 
 ## Final Wisdom
 
-Soft jaws are like a Tailored Italian Suit - they're made for one specific purpose, and they do that purpose perfectly. The time you spend making them is paid back tenfold in production efficiency, stress reduction, and most importantly the final part quality.
+Soft jaws are like a Tailored Italian Suit - they're made for one specific
+purpose, and they do that purpose perfectly. The time you spend making them is
+paid back tenfold in production efficiency, stress reduction, and most
+importantly the final part quality.
 
-Start simple. Your first soft jaws don't need every fancy feature. Make basic jaws that hold your part securely without marking. As you get comfortable, add features. Before long, you'll wonder how you ever lived without them.
+Start simple. Your first soft jaws don't need every fancy feature. Make
+basic jaws that hold your part securely without marking. As you get
+comfortable, add features. Before long, you'll wonder how you ever lived
+without them.
 
-And remember - the best soft jaws are the ones that make the job easier, not the ones that look prettiest. You know what I always say, "_Function over form, **always!**_"
-
+And remember - the best soft jaws are the ones that make the job easier, not
+the ones that look prettiest. You know what I always say, "_Function over
+form, **always!**_"

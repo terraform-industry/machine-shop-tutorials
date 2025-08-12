@@ -34,4 +34,3 @@ If any of those sound fuzzy, make sure you have got the [fundamental skills](../
 The difference between taking 4 hours to make a part and taking 1 hour often comes down to these techniques. Once you start using quick change tooling, you'll wonder how you ever lived without it. Once you make your first set of soft jaws, you'll start seeing opportunities to use them everywhere.
 
 These aren't just "nice to have" skills - they're what will let you take on more complex projects without losing your mind (or your companies profit margins).
-
