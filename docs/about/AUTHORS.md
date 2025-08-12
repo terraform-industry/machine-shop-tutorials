@@ -17,7 +17,8 @@ can access, contribute to, and learn from.
 ## Primary Author
 
 **Johanness A. Nilsson**  
-Email: [johanness.nilsson@terraformindustries.com](mailto:johanness.nilsson@terraformindustries.com)  
+Email: [johanness.nilsson@terraformindustries.com]
+(mailto:johanness.nilsson@terraformindustries.com)  
 GitHub: [@JoNilsson](https://github.com/JoNilsson)
 
 Johanness brings years of hands-on experience in metal fabrication, CNC
@@ -43,7 +44,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 Special thanks to:
 
-- The open-source community for building tools like Nix, Python, MkDocs & VIM!
+- The open-source community for building tools like Nix, Python,
+  MkDocs & VIM!
 - Traditional machinists who share their knowledge freely with hackers
 - Everyone who has contributed corrections, suggestions, and improvements
 
@@ -61,13 +63,15 @@ Special thanks to:
 This repository contains both software source code and textual content, each
 licensed separately:
 
-- **Textual content** (documentation, articles, and written works) is licensed
-  under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Textual content** (documentation, articles, and written works)
+  is licensed under the [Creative Commons Attribution-ShareAlike 4.0
+  International License]
+  (<https://creativecommons.org/licenses/by-sa/4.0/>).
 - **Software source code** is licensed under the [MIT License](./LICENSE.md).
 
-By contributing to this repository, you agree that textual contributions will
-be licensed under CC BY-SA 4.0 and code contributions will be licensed under
-the MIT License.
+By contributing to this repository, you agree that textual contributions
+will be licensed under CC BY-SA 4.0 and code contributions will be
+licensed under the MIT License.
 
 See [LICENSE.md](./LICENSE.md) for full details.
 
@@ -75,11 +79,9 @@ See [LICENSE.md](./LICENSE.md) for full details.
 
 For questions, suggestions, or collaboration opportunities:
 
-- Email: [johanness.nilsson@terraformindustries.com](mailto:johanness.nilsson@terraformindustries.com)
-- GitHub Issues: [machine-shop-tutorials/issues](https://github.com/JoNilsson/machine-shop-tutorials/issues)
-- Pull Requests: [machine-shop-tutorials/pulls](https://github.com/JoNilsson/machine-shop-tutorials/pulls)
-
----
-
-_"The best time to document knowledge was 20 years ago. The second best time is now."_
-
+- Email: [johanness.nilsson@terraformindustries.com]
+  (mailto:johanness.nilsson@terraformindustries.com)
+- GitHub Issues: [machine-shop-tutorials/issues]
+  (<https://github.com/JoNilsson/machine-shop-tutorials/issues>)
+- Pull Requests: [machine-shop-tutorials/pulls]
+  (<https://github.com/JoNilsson/machine-shop-tutorials/pulls>)

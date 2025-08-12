@@ -119,8 +119,8 @@ Before submitting:
 2. Check all links work
 3. Verify images display correctly
 4. Test on mobile viewport
-5. Run markdown linter: `make lint` to show error & `make lint-fix` to apply
-   automated corrections
+5. Run markdown linter: `make lint` to show error & `make lint-fix` to
+   apply automated corrections
 
 ## Commit Message Format
 
@@ -173,8 +173,8 @@ Added comprehensive guide for boring head operations
 
 ## Licensing
 
-By contributing, you agree that your contributions will be licensed under
-CC BY-SA 4.0. This ensures the knowledge remains free and open.
+By contributing, you agree that your contributions will be licensed
+under CC BY-SA 4.0. This ensures the knowledge remains free and open.
 
 ## Getting Help
 
@@ -193,7 +193,8 @@ may be added to the AUTHORS.md file.
 
 Current priorities:
 
-- [✓] [~~Lathe operations guide~~](https://jonilsson.github.io/lathe-mastery-wikibook/)
+- [✓] [~~Lathe operations guide~~]
+  (https://jonilsson.github.io/lathe-mastery-wikibook/)
 - [ ] Surface grinding techniques
 - [ ] CNC basics for manual machinists
 - [ ] Metrology and inspection
@@ -212,6 +213,5 @@ Current priorities:
 
 ---
 
-_Remember: Every expert was once a beginner. Your contributions, no matter
-how small, help others learn and grow._
-
+_Remember: Every expert was once a beginner. Your contributions, no
+matter how small, help others learn and grow._

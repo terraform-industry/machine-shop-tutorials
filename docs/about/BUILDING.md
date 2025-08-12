@@ -168,7 +168,7 @@ make deploy
 mkdocs gh-deploy --force
 ```
 
-This deploys to: https://jonilsson.github.io/machine-shop-tutorials/
+This deploys to: <https://jonilsson.github.io/machine-shop-tutorials/>
 
 ### GitHub Actions (CI/CD)
 
@@ -332,7 +332,7 @@ For build-related issues:
 
 - Check [GitHub Issues](https://github.com/JoNilsson/machine-shop-tutorials/issues)
 - Review [MkDocs Documentation](https://www.mkdocs.org/)
-- Contact: johanness.nilsson@terraformindustries.com
+- Contact: <johanness.nilsson@terraformindustries.com>
 
 ---
 
