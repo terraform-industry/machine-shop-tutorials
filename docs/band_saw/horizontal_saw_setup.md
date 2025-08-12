@@ -396,4 +396,3 @@ A properly set up horizontal band saw:
 Take the time to set it up right. The hour you spend now saves days of frustration and piles of scrapped material.
 
 Remember: That crooked cut gets magnified through every operation that follows. Start square, stay square.
-

@@ -486,4 +486,3 @@ Know the difference, use the right tool, get better results. And remember:
 - Use coolant when appropriate
 - CLEAN YOUR SAW - it's not optional
 - A clean saw is a happy saw that cuts straight
-

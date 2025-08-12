@@ -1,6 +1,7 @@
 # Blade Selection
 
-The difference between a clean cut and fighting the saw for 20 minutes. Choose wrong and you'll burn through blades and your reputation.
+The difference between a clean cut and fighting the saw for 20 minutes.
+Choose wrong and you'll burn through blades and your reputation.
 
 ## TPI - Teeth Per Inch
 
@@ -25,27 +26,27 @@ The most important number on the blade.
 
 ### Material-Specific TPI
 
-**Aluminum**:
+#### Aluminum
 
 - Use coarser than steel
 - Chips need room
 - 6-10 for most work
 - Skip tooth helps
 
-**Steel**:
+#### Steel
 
 - Standard recommendations
 - 10-14 most common
 - Variable pitch reduces harmonics
 
-**Stainless**:
+#### Stainless
 
 - Finer teeth better
 - 14-18 typical
 - Positive rake important
 - Keep cutting pressure constant
 
-**Tubing**:
+#### Tubing
 
 - Based on wall thickness
 - Not overall diameter
@@ -56,14 +57,14 @@ The most important number on the blade.
 
 ### Carbon Steel - The Cheap Option
 
-**Good for**:
+#### Good for
 
 - Occasional use
 - Soft materials
 - Wood (if desperate)
 - Learning/practice
 
-**Bad for**:
+#### Bad for
 
 - Production work
 - Hard materials
@@ -72,21 +73,21 @@ The most important number on the blade.
 
 ### Bi-Metal - The Standard
 
-**What it is**:
+#### What it is
 
 - High-speed steel teeth
 - Spring steel back
 - Best of both worlds
 - 90% of shop blades
 
-**Why it works**:
+#### Why it works
 
 - Teeth stay sharp
 - Back stays flexible
 - Resists breaking
 - Good blade life
 
-**Use for**:
+#### Use for
 
 - All general cutting
 - Mixed materials
@@ -95,14 +96,14 @@ The most important number on the blade.
 
 ### Carbide - The Premium Option
 
-**When you need it**:
+#### When you need it
 
 - Hardened materials
 - Exotic alloys
 - Maximum blade life
 - Tight tolerances
 
-**When to skip it**:
+#### When to skip it
 
 - General shop work
 - Cost matters
@@ -115,11 +116,11 @@ The most important number on the blade.
 
 **Pattern**: Same size teeth, one raker
 
-```
+```text
 |1|2|3|R|1|2|3|R|
 ```
 
-**Good for**:
+#### Good for
 
 - General purpose
 - Consistent materials
@@ -129,11 +130,11 @@ The most important number on the blade.
 
 **Pattern**: Every other tooth missing
 
-```
+```text
 |1|_|3|_|5|_|
 ```
 
-**Good for**:
+#### Good for
 
 - Soft materials
 - Aluminum
@@ -144,11 +145,11 @@ The most important number on the blade.
 
 **Pattern**: Varying tooth spacing
 
-```
+```text
 |1|2||3|||4|5||
 ```
 
-**Best for**:
+#### Best for
 
 - Reducing vibration
 - Mixed thicknesses
@@ -177,7 +178,7 @@ Width determines turning radius:
 | 1/2"        | 2-1/2"         |
 | 3/4"        | 5-1/2"         |
 
-**Choose based on**:
+#### Choose based on
 
 - Tightest curve needed
 - Material thickness
@@ -218,14 +219,14 @@ Some teeth straight:
 
 ### Premature Dulling
 
-**Causes**:
+#### Causes
 
 - Speed too high
 - No coolant
 - Wrong TPI
 - Cheap blades
 
-**Fix**:
+#### Fix
 
 - Check speed chart
 - Use coolant
@@ -234,14 +235,14 @@ Some teeth straight:
 
 ### Blade Breaking
 
-**Causes**:
+#### Causes
 
 - Tension wrong
 - Guides misaligned
 - Forcing curves
 - Material movement
 
-**Fix**:
+#### Fix
 
 - Proper tension
 - Align guides
@@ -250,14 +251,14 @@ Some teeth straight:
 
 ### Crooked Cuts
 
-**Causes**:
+#### Causes
 
 - Dull blade
 - Uneven set
 - Guide problems
 - Feed pressure
 
-**Fix**:
+#### Fix
 
 - Replace blade
 - Check guides
@@ -266,14 +267,14 @@ Some teeth straight:
 
 ### Stripped Teeth
 
-**Causes**:
+#### Causes
 
 - Too few teeth engaged
 - Material too hard
 - Hit hard spot
 - No break-in
 
-**Fix**:
+#### Fix
 
 - Right TPI
 - Slower speed
@@ -296,7 +297,7 @@ Skip this = short blade life
 
 ### Storage
 
-**Do**:
+#### Do
 
 - Coil properly (3 loops)
 - Oil lightly
@@ -304,7 +305,7 @@ Skip this = short blade life
 - Label clearly
 - Keep dry
 
-**Don't**:
+#### Don't
 
 - Kink or twist
 - Store loose
@@ -314,14 +315,14 @@ Skip this = short blade life
 
 ### When to Replace
 
-**Visual inspection**:
+#### Visual inspection
 
 - Missing teeth
 - Cracks in gullet
 - Heavy wear
 - Won't stay sharp
 
-**Performance**:
+#### Performance
 
 - Cutting time doubles
 - Can't cut straight
@@ -344,7 +345,7 @@ Quick reference for common jobs:
 
 ### Cheap Blades
 
-**True cost**:
+#### True cost
 
 - Replace 5x more often
 - More machine downtime
@@ -354,7 +355,7 @@ Quick reference for common jobs:
 
 ### Quality Blades
 
-**Investment return**:
+#### Investment return
 
 - Last 3-5x longer
 - Better cuts
@@ -362,7 +363,9 @@ Quick reference for common jobs:
 - Happy operators
 - Consistent results
 
-**Do the math**: $30 blade lasting a month beats $10 blade lasting 3 days.
+#### Do the math
+
+$30 blade lasting a month beats $10 blade lasting 3 days.
 
 ## Blade Brands That Don't Suck
 
@@ -374,7 +377,7 @@ Without getting into religious wars:
 - DoAll
 - Amada
 
-**Avoid**:
+#### Avoid
 
 - No-name imports
 - "Bargain" multipacks
@@ -392,5 +395,6 @@ Right blade selection:
 5. Break in properly
 6. Replace when dull
 
-Remember: The most expensive blade is the one that doesn't cut. Buy quality, set it up right, maintain it properly. Your saw (and sanity) will thank you.
-
+Remember: The most expensive blade is the one that doesn't cut. Buy
+quality, set it up right, maintain it properly. Your saw (and sanity)
+will thank you.

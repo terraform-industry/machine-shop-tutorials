@@ -483,4 +483,3 @@ Master these basics and you'll:
 - Make better parts
 
 Remember: The band saw is often the first operation. Start with a good cut and everything else will go smoother. Start with a bad cut and you're fighting it through the whole job.
-

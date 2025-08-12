@@ -1,6 +1,7 @@
 # Speeds and Materials
 
-Getting the speed right means the difference between blades lasting months or minutes. Here's what actually works.
+Getting the speed right means the difference between blades lasting months
+or minutes. Here's what actually works.
 
 ## Understanding Band Speed
 
@@ -9,18 +10,21 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 ### Why Speed Matters
 
 **Too fast**:
+
 - Burns teeth
 - Work hardens material
 - Breaks blades
 - Blue chips (bad)
 
 **Too slow**:
+
 - Rubs instead of cutting
 - Takes forever
 - Dulls blade
 - Wastes time
 
 **Just right**:
+
 - Consistent chip color
 - Smooth cutting
 - Blade stays cool
@@ -33,12 +37,14 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 250-350 FPM
 
 **Characteristics**:
+
 - Cuts fast
 - Chips can weld
 - Needs chip clearance
 - Watch for gumming
 
 **Tips**:
+
 - Use cutting fluid
 - Coarser teeth
 - Keep blade sharp
@@ -49,12 +55,14 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 100-150 FPM
 
 **The baseline**:
+
 - Most common material
 - Forgiving
 - Good chip formation
 - Standard everything
 
 **Best practices**:
+
 - Always use coolant
 - 10-14 TPI typical
 - Medium feed pressure
@@ -65,12 +73,14 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 60-80 FPM
 
 **The problem child**:
+
 - Work hardens easily
 - Needs constant feed
 - Never let it rub
 - Slow and steady
 
 **Critical points**:
+
 - Heavy coolant flow
 - Positive rake teeth
 - Never stop in cut
@@ -81,12 +91,14 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 80-100 FPM
 
 **Special case**:
+
 - Cut DRY only
 - Powdery chips
 - Abrasive
 - Messy
 
 **Remember**:
+
 - No coolant ever
 - Wear dust mask
 - Clean saw after
@@ -97,6 +109,7 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 50-70 FPM
 
 **Tough stuff**:
+
 - Very slow
 - Maximum coolant
 - Light steady pressure
@@ -107,6 +120,7 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 200-300 FPM
 
 **Free cutting**:
+
 - Similar to aluminum
 - Chips break well
 - Little burr
@@ -117,6 +131,7 @@ Measured in FPM (Feet Per Minute) - how fast the blade travels.
 **Speed**: 300-500 FPM
 
 **Varies widely**:
+
 - Some melt
 - Some chip
 - Test first
@@ -142,6 +157,7 @@ Speed is only half the equation.
 ### General Guidelines
 
 **Let the saw do the work**:
+
 - Gravity feed on horizontal
 - Light steady pressure vertical
 - Never force
@@ -150,22 +166,26 @@ Speed is only half the equation.
 ### Material-Specific Feed
 
 **Aluminum**:
+
 - Medium to fast feed
 - Don't dwell
 - Keep chips moving
 
 **Steel**:
+
 - Medium steady feed
 - Consistent pressure
 - Watch chip color
 
 **Stainless**:
+
 - Never stop feeding
 - Constant pressure
 - No dwelling
 - Critical!
 
 **Cast Iron**:
+
 - Light pressure
 - Let it cut
 - Don't force
@@ -177,18 +197,21 @@ Chips tell the truth about your setup.
 ### Good Chips
 
 **Steel**:
+
 - Silver to light brown
 - Curled nicely
 - Consistent size
 - Not too hot
 
 **Aluminum**:
+
 - Shiny
 - May spiral
 - Not discolored
 - Clean breaks
 
 **Stainless**:
+
 - Tightly curled
 - Consistent
 - Not blue/purple
@@ -209,6 +232,7 @@ When and how much matters.
 ### Standard Mix
 
 **Water-soluble oil**:
+
 - 5-10% concentration
 - Check with refractometer
 - Adjust as needed
@@ -217,12 +241,14 @@ When and how much matters.
 ### Flow Rate
 
 **General cutting**:
+
 - Steady stream
 - Cover blade width
 - Wash chips away
 - Keep blade cool
 
 **Heavy cutting**:
+
 - Flood coolant
 - Maximum flow
 - Critical for life
@@ -243,6 +269,7 @@ Real world isn't textbook.
 ### Thick Sections
 
 **Adjustments**:
+
 - Reduce speed 10-20%
 - Increase coolant
 - Steady pressure
@@ -251,6 +278,7 @@ Real world isn't textbook.
 ### Thin Materials
 
 **Changes needed**:
+
 - Finer teeth
 - Higher speed OK
 - Light pressure
@@ -259,6 +287,7 @@ Real world isn't textbook.
 ### Bundle Cutting
 
 **Multiple pieces**:
+
 - Reduce speed 20%
 - Clamp tight
 - Extra coolant
@@ -267,6 +296,7 @@ Real world isn't textbook.
 ### Hard Spots
 
 **Dealing with variations**:
+
 - Slow down
 - Let blade work
 - Don't force
@@ -277,6 +307,7 @@ Real world isn't textbook.
 ### Blade Wearing Too Fast
 
 **Check**:
+
 - Speed too high?
 - Coolant working?
 - Right blade?
@@ -285,6 +316,7 @@ Real world isn't textbook.
 ### Cutting Too Slow
 
 **Look for**:
+
 - Speed too low?
 - Blade dull?
 - Not enough pressure?
@@ -293,6 +325,7 @@ Real world isn't textbook.
 ### Poor Finish
 
 **Investigate**:
+
 - Vibration?
 - Speed mismatch?
 - Blade condition?
@@ -301,6 +334,7 @@ Real world isn't textbook.
 ### Crooked Cuts
 
 **Common causes**:
+
 - Uneven blade wear
 - One side cutting faster
 - Guide problems
@@ -311,12 +345,14 @@ Real world isn't textbook.
 ### Speed Changes
 
 **When to adjust**:
+
 - Different material
 - Blade wearing
 - Finish problems
 - Time constraints
 
 **How much**:
+
 - Start conservative
 - 10% adjustments
 - Listen to cut
@@ -325,12 +361,14 @@ Real world isn't textbook.
 ### Optimizing for Production
 
 **Blade life priority**:
+
 - Run slower
 - Maximum coolant
 - Perfect setup
 - Consistent results
 
 **Speed priority**:
+
 - Push limits carefully
 - Watch blade temp
 - More blade changes
@@ -341,6 +379,7 @@ Real world isn't textbook.
 ### Hardened Materials
 
 **If you must**:
+
 - Carbide blade
 - 30-50 FPM max
 - Flood coolant
@@ -350,6 +389,7 @@ Real world isn't textbook.
 ### Exotic Alloys
 
 **Research first**:
+
 - Call blade manufacturer
 - Start very slow
 - Test cuts
@@ -358,6 +398,7 @@ Real world isn't textbook.
 ### Mixed Materials
 
 **Laminated/welded**:
+
 - Use slower material speed
 - Reduce 20% more
 - Expect blade wear
@@ -373,7 +414,8 @@ Charts are guidelines, not gospel:
 4. Adjust as needed
 5. Document what works
 
-Every saw is different. What works on the old DoAll might not work on the new import. Learn your machine.
+Every saw is different. What works on the old DoAll might not work on the
+new import. Learn your machine.
 
 ## Quick Setup Guide
 
@@ -392,9 +434,11 @@ For any new material:
 Right speed + right feed + right blade = good cuts
 
 Get any one wrong and you're:
+
 - Burning blades
 - Making scrap
 - Wasting time
 - Getting frustrated
 
-Take 5 minutes to set up properly. Your blades will last longer, cuts will be better, and you'll spend less time fighting the saw.
+Take 5 minutes to set up properly. Your blades will last longer, cuts
+will be better, and you'll spend less time fighting the saw.
