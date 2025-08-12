@@ -2,7 +2,10 @@
 
 ## The Easy Ones
 
-If you can locate the center of your part and move to four corners of a square, congratulations - you can do 4-hole patterns. The 8-hole is just doing it twice with a 45° rotation. No magic numbers needed here, just basic shop math.
+If you can locate the center of your part and move to four corners of a
+square, congratulations - you can do 4-hole patterns. The 8-hole is just
+doing it twice with a 45° rotation. No magic numbers needed here, just basic
+shop math.
 
 ## 4-Hole Pattern (Square)
 
@@ -20,11 +23,13 @@ Starting with your center at (0,0) and radius R:
 3. **Hole 3**: X = -R, Y = 0 (9 o'clock position)
 4. **Hole 4**: X = 0, Y = -R (6 o'clock position)
 
-That's it. You're literally just moving to the radius distance on each axis.
+That's it. You're literally just moving to the radius distance on each
+axis.
 
 ### The 45° Rotated Method (More Common)
 
-Most 4-hole patterns have holes at the "corners" rather than on the axes. For this layout:
+Most 4-hole patterns have holes at the "corners" rather than on the axes.
+For this layout:
 
 All four holes are at the same distance from each axis:
 
@@ -47,7 +52,8 @@ So each hole is at (±35.35, ±35.35)
 
 ## 8-Hole Pattern (Octagonal)
 
-An 8-hole pattern is just a 4-hole pattern done twice. You make one set of 4 holes, then another set rotated 45°.
+An 8-hole pattern is just a 4-hole pattern done twice. You make one set of
+4 holes, then another set rotated 45°.
 
 ### The Method
 
@@ -90,13 +96,18 @@ For a 150mm diameter bolt circle (75mm radius):
 
 ## Shop Tips
 
-1. **Start Simple**: For 4-hole patterns, drill opposite holes first (1 & 3, then 2 & 4). This lets you verify your bolt circle diameter immediately.
+1. **Start Simple**: For 4-hole patterns, drill opposite holes first
+   (1 & 3, then 2 & 4). This lets you verify your bolt circle diameter
+   immediately.
 
-2. **8-Hole Sequence**: Drill all 4 on-axis holes first, verify spacing, then add the 45° holes.
+2. **8-Hole Sequence**: Drill all 4 on-axis holes first, verify spacing,
+   then add the 45° holes.
 
-3. **Rotary Table Alternative**: If you have a rotary table, just index 90° for 4-hole or 45° for 8-hole. Way easier than coordinate math.
+3. **Rotary Table Alternative**: If you have a rotary table, just index
+   90° for 4-hole or 45° for 8-hole. Way easier than coordinate math.
 
-4. **The 0.7071 Constant**: This is just √2/2 or sin(45°). An old timer taught me to remember it as _"point seven-oh-seven"_ and left it at that.
+4. **The 0.7071 Constant**: This is just √2/2 or sin(45°). An old timer
+   taught me to remember it as _"point seven-oh-seven"_ and left it at that.
 
 ## Verification
 
@@ -108,9 +119,11 @@ This gives you a quick sanity check with your calipers.
 
 ## When to Use What
 
-- **4-hole on axes**: Easier to indicate and measure, use when appearance doesn't matter
+- **4-hole on axes**: Easier to indicate and measure, use when appearance
+  doesn't matter
 - **4-hole at 45°**: Standard for flanges and covers, looks more balanced
 - **8-hole**: When you need more bolts but don't want to calculate weird angles
 
-This is like the _training wheels_ of bolt circles. Start here, and once you've mastered it, the 5-hole and other odd patterns won't seem so intimidating.
-
+This is like the _training wheels_ of bolt circles. Start here, and once
+you've mastered it, the 5-hole and other odd patterns won't seem so
+intimidating.

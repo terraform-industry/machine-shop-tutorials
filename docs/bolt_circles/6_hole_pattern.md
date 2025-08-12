@@ -14,7 +14,7 @@ When you need to create 6 holes equally spaced around a circular part, you're de
 
 When you have 6 points spaced 60° apart around a circle and connect them, you create a hexagon. This geometric relationship is the foundation for our calculations.
 
-![Hexagon Concept](./images/6_hole/hexagon_concept.png)
+![Hexagon Concept](/images/6_hole/hexagon_concept.png)
 *Figure 1: Six equally-spaced holes form a hexagon pattern on a 152.4mm flange*
 
 ## Setting Up Your Coordinate System
@@ -36,9 +36,9 @@ For a 30-60-90 triangle (which appears when working with hexagons), remember the
 
 - This is the ratio for finding the long leg of the triangle
 - To find the long side: multiply radius × 0.86603
-  - PRO TIP: _This value comes from sin/cos of 30°, but just memorize it!_
+  - PRO TIP: *This value comes from sin/cos of 30°, but just memorize it!*
 
-![Triangle Method](./images/6_hole/triangle_method.png)
+![Triangle Method](/images/6_hole/triangle_method.png)
 *Figure 2: The 30-60-90 triangle method showing how to calculate hole positions*
 
 ## Calculating Our Hole Positions
@@ -72,7 +72,7 @@ Notice how these calculations create four identical right triangles within the c
 - Long leg = 54.99mm (2.165")
 - Angles: 30°, 60°, and 90°
 
-![All Coordinates](./images/6_hole/all_coordinates.png)
+![All Coordinates](/images/6_hole/all_coordinates.png)
 *Figure 3: Complete layout showing all hole coordinates and the four triangular sections*
 
 ## Working Tips
@@ -85,7 +85,7 @@ Notice how these calculations create four identical right triangles within the c
    - Use a 12.5mm bore for initial hole
    - Ream to final 13mm size for proper clearance
 
-![Practical Tips](./images/6_hole/practical_tips.png)
+![Practical Tips](/images/6_hole/practical_tips.png)
 *Figure 4: Recommended drilling sequence and verification method*
 
 3. **Efficient Movements**: When moving between holes, change only one coordinate at a time when possible. This minimizes your setup time and also will reduce errors.
