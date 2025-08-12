@@ -4,7 +4,12 @@ Author: Johannes A. Nilsson
 
 ## The First Rule of Machining
 
-If it ain't clamped, it ain't staying put. I don't care if it weighs 500 pounds - cutting forces will move it, throw it, or turn it into a projectile. Good work holding is the difference between going home with all your fingers and explaining to the ER doc why there's a part embedded in your skull. Always consider that that forces of inertia and entropy are out to get you.
+If it ain't clamped, it ain't staying put. I don't care if it weighs 500
+pounds - cutting forces will move it, throw it, or turn it into a
+projectile. Good work holding is the difference between going home with all
+your fingers and explaining to the ER doc why there's a part embedded in your
+skull. Always consider that that forces of inertia and entropy are out to get
+you.
 
 ## The Physics you didn't learn in shop class
 
@@ -26,7 +31,8 @@ This is how you make a part stay put without distorting it:
 - **2 points** stop rotation (side of part)
 - **1 point** stops the last degree of freedom
 
-Over-constrain it and you'll bend your part. Under-constrain it and it'll move and possibly kill you.
+Over-constrain it and you'll bend your part. Under-constrain it and it'll
+move and possibly kill you.
 
 ### Clamp Placement
 
@@ -73,20 +79,25 @@ Those hardened bars aren't just spacers:
 - Keep the part square
 - Tell you if the part is seated (tap test)
 
-**The Tap Test**: After clamping, tap each parallel. They should both ring the same. If one's dead, your part is bent or not seated.
+**The Tap Test**: After clamping, tap each parallel. They should both ring
+the same. If one's dead, your part is bent or not seated.
 
 ### Vise Tricks
 
-**The Penny Trick**: For thin parts, put a penny (or thin parallel) under one end. Tighten vise until part touches both jaws, then remove penny. Now you've got even pressure without bending.
+**The Penny Trick**: For thin parts, put a penny (or thin parallel) under
+one end. Tighten vise until part touches both jaws, then remove penny. Now
+you've got even pressure without bending.
 
-**Soft Jaws**: More on these custom tools you can fab to make your life better later, but they're magic for:
+**Soft Jaws**: More on these custom tools you can fab to make your life
+better later, but they're magic for:
 
 - Holding finished surfaces
 - Odd shapes
 - Repeat work
 - Delicate parts
 
-**Stop Blocks**: Use them. Every time. Repeatability matters more than you think.
+**Stop Blocks**: Use them. Every time. Repeatability matters more than you
+think.
 
 ## Soft Jaws: A Superpower
 
@@ -159,14 +170,14 @@ Magnets are magic, but respect them.
 
 ### Magnetic Chucks
 
-**Pros**:
+#### Pros
 
 - Fast setup
 - No clamp interference
 - Even holding
 - Great for grinding
 
-**Cons**:
+#### Cons
 
 - Only ferrous materials
 - Limited holding power
@@ -194,19 +205,25 @@ The part was straight until you clamped it. Here's why:
 
 ### Solutions
 
-**Jack Screws**: Support the middle of long parts
+#### Jack Screws
+
+Support the middle of long parts
 
 - Adjustable height
 - Multiple contact points
 - Takes the bow out
 
-**Step Clamps**: Spread the load
+#### Step Clamps
+
+Spread the load
 
 - Use the right height
 - Keep them level
 - Multiple small better than few large
 
-**Indicating While Clamping**: Watch the distortion happen
+#### Indicating While Clamping
+
+Watch the distortion happen
 
 - Indicates part while tightening
 - Stop when movement starts
@@ -294,7 +311,8 @@ The controversial method:
 
 ## The Golden Rules
 
-1. **If you're scared of the setup, fix it** - Trust the _Gut Brain_. Your gut knows!
+1. **If you're scared of the setup, fix it** - Trust the _Gut Brain_. Your
+   gut knows!
 2. **Two pounds of clamp for one pound of cut** - Overkill saves lives
 3. **Check after first cut** - Parts move, clamps loosen
 4. **Plan the whole job** - Don't paint yourself into a corner
@@ -305,15 +323,22 @@ The controversial method:
 Start cheap, upgrade what you use most:
 
 1. **Good vise** - I like Kurt brand, or get some clone equivalent
-2. **Parallel set** - Import is fine to start - A Starrett set is bought once and used for life
-3. **Step clamp kit** - Get a decent one, or possibly two - You can't have too many
+2. **Parallel set** - Import is fine to start - A Starrett set is bought
+   once and used for life
+3. **Step clamp kit** - Get a decent one, or possibly two - You can't have
+   too many
 4. **123 blocks** - Incredibly versatile
 5. **Soft jaw material** - Always have some ready
 6. **Bessey Clamps** - Another thing you can never have enough of
 
 ## Final Words
 
-Work holding is where machining gets creative. There's always a way to hold the weird-ass part the engineer designed - you just might need to invent it. Start simple, build your bag of tricks, and remember: the best work holding is the one that lets you go home with the same number of fingers and eyes you arrived with.
+Work holding is where machining gets creative. There's always a way to hold
+the weird-ass part the engineer designed - you just might need to invent it.
+Start simple, build your bag of tricks, and remember: the best work holding is
+the one that lets you go home with the same number of fingers and eyes you
+arrived with.
 
-And if you hear that sound - that tiny "tink" of a part shifting - STOP. That's the sound of shit about to go real wrong. Re-clamp it, check it, and try again. The part can be replaced. Your face cannot.
-
+And if you hear that sound - that tiny "tink" of a part shifting - STOP.
+That's the sound of shit about to go real wrong. Re-clamp it, check it, and
+try again. The part can be replaced. Your face cannot.

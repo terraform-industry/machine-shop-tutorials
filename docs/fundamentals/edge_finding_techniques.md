@@ -4,11 +4,15 @@ Author: Johannes A. Nilsson
 
 ## Why Edge Finding Matters
 
-You can't machine what you can't find. Every dimension on your part is measured from somewhere, and if you don't know where that somewhere is, you're just making expensive scrap. Edge finding is how you tell your machine exactly where your part is, not where you think it is.
+You can't machine what you can't find. Every dimension on your part is
+measured from somewhere, and if you don't know where that somewhere is,
+you're just making expensive scrap. Edge finding is how you tell your
+machine exactly where your part is, not where you think it is.
 
 ## The Paper Method (Old School)
 
-This is what I learned first because I was too broke for real tools. Still works great.
+This is what I learned first because I was too broke for real tools. Still
+works great.
 
 ### What You Need
 
@@ -44,7 +48,8 @@ The classic tool that every machinist has dropped at least once.
 
 ### How They Work
 
-These have a spring-loaded tip that wobbles around until it touches the work, then it kicks off to the side.
+These have a spring-loaded tip that wobbles around until it touches the
+work, then it kicks off to the side.
 
 ### The Technique
 
@@ -63,19 +68,19 @@ These have a spring-loaded tip that wobbles around until it touches the work, th
 
 ### Types of Mechanical Edge Finders
 
-**Standard Wobbler**
+#### Standard Wobbler
 
 - Most common
 - Usually 0.200" diameter tip
 - Good for ±0.0002" if you're careful
 
-**Double-End Edge Finder**
+#### Double-End Edge Finder
 
 - Has different diameter ends
 - Handy for inside corners
 - One end usually has a point for finding centers
 
-**Wiggler Sets**
+#### Wiggler Sets
 
 - Comes with various attachments
 - Ball ends for finding holes
@@ -88,7 +93,8 @@ Welcome to the 21st century. These beep when you touch the work.
 
 ### How They Work
 
-Basic, it completes a circuit through the machine when the tip touches work. Simple but effective.
+Basic, it completes a circuit through the machine when the tip touches work.
+Simple but effective.
 
 ### The Good
 
@@ -100,7 +106,8 @@ Basic, it completes a circuit through the machine when the tip touches work. Sim
 ### The Bad
 
 - **Needs conductive material** - Won't work on plastics or ceramics
-- **Batteries die** and they do so always at the worst possible time, keep a backup stocked!
+- **Batteries die** and they do so always at the worst possible time,
+  keep a backup stocked!
 - **More expensive** than mechanical
 - **Can be fooled** by coolant or chips
 
@@ -145,29 +152,35 @@ Touch off four sides (90° apart), average X and Y positions.
 
 ### The Safety Touch
 
-Always do a "safety touch" - back off and approach again to verify your first reading.
+Always do a "safety touch" - back off and approach again to verify your
+first reading.
 
 ### Using Gauge Pins
 
-For critical work, use a known diameter gauge pin in the spindle instead of an edge finder.
+For critical work, use a known diameter gauge pin in the spindle instead of
+an edge finder.
 
 ## Common Mistakes
 
 ### Spindle Deflection
 
-Pushing too hard bends the spindle and gives false readings. Let the tool do the work.
+Pushing too hard bends the spindle and gives false readings. Let the tool
+do the work.
 
 ### Forgetting Tool Diameter
 
-Edge finder says you're at X=0.100" but you forgot to account for the 0.100" radius. Now your part is 0.200" off.
+Edge finder says you're at X=0.100" but you forgot to account for the
+0.100" radius. Now your part is 0.200" off.
 
 ### Dirty Surfaces
 
-Chips, oil, and rust all conduct electricity differently. Clean your shit, and clean it often.
+Chips, oil, and rust all conduct electricity differently. Clean your shit,
+and clean it often.
 
 ### Wrong RPM
 
-Too fast and mechanical finders won't kick. Too slow and you can't see the wobble. RTFM!
+Too fast and mechanical finders won't kick. Too slow and you can't see the
+wobble. RTFM!
 
 ## Accuracy Comparison
 
@@ -181,7 +194,7 @@ From worst to best:
 
 ## When to Use What
 
-**Paper Method**
+#### Paper Method
 
 - Quick and dirty setups
 - Non-conductive materials
@@ -189,21 +202,21 @@ From worst to best:
 - Quick Z-height settings
 - Leveling a 3D printer bed
 
-**Mechanical Edge Finder**
+#### Mechanical Edge Finder
 
 - Most general work
 - When you need to see the edge
 - No batteries required
 - Works in coolant
 
-**Electronic Edge Finder**
+#### Electronic Edge Finder
 
 - Critical dimensions
 - Production work
 - When repeatability matters
 - Clean, dry setups
 
-**Dial Indicator**
+#### Dial Indicator
 
 - Finding hole centers
 - Maximum accuracy needed
@@ -220,7 +233,11 @@ From worst to best:
 
 ## Final Thoughts
 
-Edge finding is like foreplay - rush it and you'll regret it later. Take the time to do it right and your parts will actually match the print. And remember, the most expensive edge finder in the world won't help if your part moves after you find the edge. Clamp your shit down properly.
+Edge finding is like foreplay - rush it and you'll regret it later. Take
+the time to do it right and your parts will actually match the print. And
+remember, the most expensive edge finder in the world won't help if your part
+moves after you find the edge. Clamp your shit down properly.
 
-The difference between a hack and a professional machinist is about 0.002" - and most of that comes from proper edge finding. So learn this set of skills and get well paid.
-
+The difference between a hack and a professional machinist is about
+0.002" - and most of that comes from proper edge finding. So learn this
+set of skills and get well paid.
