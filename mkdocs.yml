@@ -10,49 +10,38 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.path
     - navigation.footer
     - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.tracking
-    - navigation.top
     - search.highlight
     - search.share
-    - search.suggest
     - toc.follow
-    - toc.integrate
-    - content.code.copy
-    - content.code.select
-    - content.code.annotate
   palette:
     - scheme: default
-      primary: blue-grey
-      accent: orange
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: blue-grey
-      accent: orange
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   icon:
     repo: fontawesome/brands/github
-  favicon: images/favicon.png
-  logo: images/logo.png
+  favicon: images/gear.svg
+  logo: images/gear.svg
 
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang:
         - en
-  - tags:
-      tags_file: tags.md
+  - tags
 
 markdown_extensions:
   - mdx_truly_sane_lists:
@@ -121,8 +110,8 @@ copyright: |
 
 nav:
   - Home: index.md
-  - Drill Press Mastery:
-    - Overview: drill_press/index.md
+  - Drill Press Mastery: drill_press/index.md
+  - Drill Press Topics:
     - Core Skills:
       - Drill Bit Basics: drill_press/drill_bit_basics.md
       - Layout & Marking: drill_press/layout_and_marking.md
@@ -134,31 +123,31 @@ nav:
       - Specialized Equipment: drill_press/specialized_equipment.md
       - Precision Techniques: drill_press/precision_techniques.md
       - Troubleshooting: drill_press/troubleshooting_guide.md
-  - Band Saw Operations:
-    - Overview: band_saw/index.md
+  - Band Saw Operations: band_saw/index.md
+  - Band Saw Topics:
     - Blade Selection: band_saw/blade_selection.md
     - Cutting Techniques: band_saw/cutting_techniques.md
     - Horizontal Setup: band_saw/horizontal_saw_setup.md
     - Horizontal vs Vertical: band_saw/horizontal_vs_vertical.md
     - Speeds & Materials: band_saw/speeds_and_materials.md
-  - Precision Layout:
-    - Overview: bolt_circles/index.md
+  - Precision Layout: bolt_circles/index.md
+  - Bolt Circle Patterns:
     - 4 & 8 Hole Patterns: bolt_circles/4_8_hole_patterns.md
     - 5 Hole Pattern: bolt_circles/5_hole_pattern.md
     - 6 Hole Pattern: bolt_circles/6_hole_pattern.md
-  - Fundamental Skills:
-    - Overview: fundamentals/index.md
+  - Fundamental Skills: fundamentals/index.md
+  - Core Fundamentals:
     - Dial Indicator Mastery: fundamentals/dial_indicator_mastery.md
     - Edge Finding: fundamentals/edge_finding_techniques.md
     - Work Holding Secrets: fundamentals/work_holding_secrets.md
-  - Measurement & QC:
-    - Overview: measurement/index.md
+  - Measurement & QC: measurement/index.md
+  - Measurement Topics:
     - Basic Tools: measurement/basic_measuring_tools.md
     - GD&T Basics: measurement/gdt_basics.md
     - Shop Floor Inspection: measurement/shop_floor_inspection.md
     - Surface Finish: measurement/surface_finish.md
-  - Shop Efficiency:
-    - Overview: shop_efficiency/index.md
+  - Shop Efficiency: shop_efficiency/index.md
+  - Efficiency Topics:
     - Making Soft Jaws: shop_efficiency/making_soft_jaws.md
     - Quick Change Tooling: shop_efficiency/quick_change_tooling.md
     - Shop Made Tools: shop_efficiency/shop_made_tools.md
@@ -166,7 +155,7 @@ nav:
     - Contributing: about/CONTRIBUTING.md
     - Building the Book: about/BUILDING.md
     - Authors: about/AUTHORS.md
-    - License: about/LICENSE.md
+    - License: ../LICENSE.md
 
 extra_css:
   - stylesheets/extra.css
