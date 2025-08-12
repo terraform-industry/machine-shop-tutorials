@@ -1,5 +1,8 @@
 # Machine Shop Tutorials Wiki
 
+[![Deploy MkDocs][deploy-badge]][deploy-url]
+[![Markdown Lint][lint-badge]][lint-url]
+
 A comprehensive wiki-book for machinists, fabricators, and makers.
 
 ## 📚 Visit the Wiki
@@ -69,3 +72,9 @@ See [LICENSE.md](LICENSE.md) for details.
 ---
 
 *Building the future, one chip at a time.*
+
+<!-- Badge Links -->
+[deploy-badge]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/deploy.yml/badge.svg
+[deploy-url]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/deploy.yml
+[lint-badge]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/ci.yml/badge.svg
+[lint-url]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/ci.yml
