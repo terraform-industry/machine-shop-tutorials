@@ -1,0 +1,74 @@
+/* Machine Shop Tutorials - Custom Styles */
+
+/* Better contrast for code blocks in dark mode */
+[data-md-color-scheme="slate"] .highlight {
+    background-color: #1e1e1e;
+}
+
+/* Improve table readability */
+.md-typeset table:not([class]) {
+    font-size: 0.9rem;
+}
+
+.md-typeset table:not([class]) th {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+/* Better spacing for admonitions */
+.md-typeset .admonition {
+    margin: 1.5rem 0;
+}
+
+/* Improve image captions */
+.md-typeset img + em {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    color: var(--md-default-fg-color--light);
+    margin-top: 0.5rem;
+}
+
+/* Custom warning box for safety notices */
+.md-typeset .admonition.safety,
+.md-typeset details.safety {
+    border-left-color: #ff9800;
+}
+
+.md-typeset .safety > .admonition-title,
+.md-typeset .safety > summary {
+    background-color: rgba(255, 152, 0, 0.1);
+    border-left-color: #ff9800;
+}
+
+.md-typeset .safety > .admonition-title::before,
+.md-typeset .safety > summary::before {
+    background-color: #ff9800;
+    -webkit-mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2m0 3.17L19.83 19H4.17L12 5.17m-1 3.83v6h2v-6h-2m0 8v2h2v-2h-2Z"/></svg>');
+    mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2m0 3.17L19.83 19H4.17L12 5.17m-1 3.83v6h2v-6h-2m0 8v2h2v-2h-2Z"/></svg>');
+}
+
+/* Better navigation highlighting */
+.md-nav__link--active {
+    font-weight: bold;
+}
+
+/* Improve formula readability */
+.md-typeset .arithmatex {
+    font-size: 1.1em;
+}
+
+/* Custom print styles */
+@media print {
+    .md-sidebar,
+    .md-header,
+    .md-footer,
+    .md-tabs {
+        display: none;
+    }
+    
+    .md-content {
+        margin: 0;
+        padding: 0;
+    }
+}
