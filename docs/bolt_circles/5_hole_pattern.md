@@ -51,14 +51,14 @@ For a 100mm diameter bolt circle (50mm radius):
 4. **Hole 4**: X = -40.45, Y = -29.39
 5. **Hole 5**: X = +15.45, Y = -47.55
 
-![5-Hole Layout](/images/5_hole/layout.png)
+![5-Hole Layout](../images/5_hole/layout.png)
 _Figure 1: Complete 5-hole pattern layout with coordinates_
 
 ### Understanding the Math
 
 Here's how we get from angles to coordinates:
 
-![Triangle Explanation](/images/5_hole/triangle_explanation.png)
+![Triangle Explanation](../images/5_hole/triangle_explanation.png)
 _Figure 2: The trigonometry behind the weird numbers_
 
 ## Shortcuts Are Nice
@@ -77,7 +77,7 @@ No shame in using technology.
 
 ### Method 3: Grandpa's Sine Bar
 
-![Grandpa's Sine Bar](/images/5_hole/sine-bar.jpeg)
+![Grandpa's Sine Bar](../images/5_hole/sine-bar.jpeg)
 _Some dead guys sine bar, probably._
 
 If you have inherited a sine bar and you're feeling saucy:
@@ -126,7 +126,7 @@ The distance between adjacent holes should be:
 
 This is harder to measure than diameter, but it's what you've got.
 
-![Chord Verification](/images/5_hole/chord_verification.png)
+![Chord Verification](../images/5_hole/chord_verification.png)
 _Figure 3: Measuring chord length to verify your pattern_
 
 ## Real Talk

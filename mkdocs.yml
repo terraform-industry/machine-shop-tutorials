@@ -155,7 +155,6 @@ nav:
     - Contributing: about/CONTRIBUTING.md
     - Building the Book: about/BUILDING.md
     - Authors: about/AUTHORS.md
-    - License: ../LICENSE.md
 
 extra_css:
   - stylesheets/extra.css

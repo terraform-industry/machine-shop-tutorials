@@ -18,7 +18,7 @@ When you have 6 points spaced 60° apart around a circle and connect
 them, you create a hexagon. This geometric relationship is the
 foundation for our calculations.
 
-![Hexagon Concept](/images/6_hole/hexagon_concept.png)
+![Hexagon Concept](../images/6_hole/hexagon_concept.png)
 *Figure 1: Six equally-spaced holes form a hexagon pattern on a
 152.4mm flange*
 
@@ -47,7 +47,7 @@ remember these two critical values:
   - PRO TIP: *This value comes from sin/cos of 30°, but just
     memorize it!*
 
-![Triangle Method](/images/6_hole/triangle_method.png)
+![Triangle Method](../images/6_hole/triangle_method.png)
 *Figure 2: The 30-60-90 triangle method showing how to calculate
 hole positions*
 
@@ -83,7 +83,7 @@ within the circle. Each triangle has:
 - Long leg = 54.99mm (2.165")
 - Angles: 30°, 60°, and 90°
 
-![All Coordinates](/images/6_hole/all_coordinates.png)
+![All Coordinates](../images/6_hole/all_coordinates.png)
 *Figure 3: Complete layout showing all hole coordinates and four
 triangular sections*
 
@@ -98,7 +98,7 @@ triangular sections*
    - Use a 12.5mm bore for initial hole
    - Ream to final 13mm size for proper clearance
 
-![Practical Tips](/images/6_hole/practical_tips.png)
+![Practical Tips](../images/6_hole/practical_tips.png)
 *Figure 4: Recommended drilling sequence and verification method*
 
 1. **Efficient Movements**: When moving between holes, change only one

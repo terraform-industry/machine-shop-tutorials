@@ -1,6 +1,6 @@
 # Contributing to Machine Shop Tutorials
 
-First off, thank you for considering contributing to Machine Shop Tutorials! 
+First off, thank you for considering contributing to Machine Shop Tutorials!
 It's people like you that make this resource valuable for machinists worldwide.
 
 ## Table of Contents
@@ -14,8 +14,8 @@ It's people like you that make this resource valuable for machinists worldwide.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. 
-By participating, you are expected to uphold this code. Please report unacceptable 
+This project and everyone participating in it is governed by our Code of Conduct.
+By participating, you are expected to uphold this code. Please report unacceptable
 behavior to the project maintainers.
 
 ## Getting Started
@@ -31,12 +31,14 @@ behavior to the project maintainers.
 ### Development Setup
 
 #### Using Nix (Recommended)
+
 ```bash
 nix develop
 make serve
 ```
 
 #### Manual Setup
+
 ```bash
 pip install -r requirements.txt
 mkdocs serve
@@ -46,7 +48,7 @@ mkdocs serve
 
 ### Reporting Bugs
 
-Before creating bug reports, please check existing issues. When creating a bug 
+Before creating bug reports, please check existing issues. When creating a bug
 report, please include:
 
 - A clear and descriptive title
@@ -58,7 +60,7 @@ report, please include:
 
 ### Suggesting Enhancements
 
-Enhancement suggestions are tracked as GitHub issues. When creating an 
+Enhancement suggestions are tracked as GitHub issues. When creating an
 enhancement suggestion, provide:
 
 - A clear and descriptive title
@@ -95,7 +97,7 @@ We welcome new tutorials and improvements to existing content! When contributing
 
 ### File Organization
 
-```
+```text
 docs/
 ├── section_name/
 │   ├── index.md          # Section overview
@@ -162,13 +164,13 @@ make clean
 
 ## Questions?
 
-Feel free to open an issue for any questions about contributing. We're here 
+Feel free to open an issue for any questions about contributing. We're here
 to help make your contribution process smooth and enjoyable!
 
 ## Recognition
 
-Contributors will be recognized in our AUTHORS.md file and in release notes. 
-Your expertise helps make this resource better for everyone in the machining 
+Contributors will be recognized in our AUTHORS.md file and in release notes.
+Your expertise helps make this resource better for everyone in the machining
 community.
 
 Thank you for contributing to Machine Shop Tutorials!

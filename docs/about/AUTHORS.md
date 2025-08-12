@@ -67,13 +67,13 @@ licensed separately:
   is licensed under the [Creative Commons Attribution-ShareAlike 4.0
   International License]
   (<https://creativecommons.org/licenses/by-sa/4.0/>).
-- **Software source code** is licensed under the [MIT License](./LICENSE.md).
+- **Software source code** is licensed under the MIT License.
 
 By contributing to this repository, you agree that textual contributions
 will be licensed under CC BY-SA 4.0 and code contributions will be
 licensed under the MIT License.
 
-See [LICENSE.md](./LICENSE.md) for full details.
+See LICENSE.md in the repository root for full details.
 
 ## Contact
 

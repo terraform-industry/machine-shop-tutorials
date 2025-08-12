@@ -18,7 +18,7 @@ exceptions.
 - Understanding of RPM (revolutions per minute)
 
 New to metalworking? Start with the
-[fundamental skills](../fundamental_skills/README.md) section first.
+[fundamental skills](../fundamentals/index.md) section first.
 
 ## Core Skills - Start Here
 
@@ -147,11 +147,6 @@ cost you time and money.
 - Reamer set
 - Countersink set
 - Magnetic base drill
-
-## Archive
-
-Previous chapter organization and original files are preserved in the
-[archive folder](./archive/) for reference.
 
 ## Remember
 

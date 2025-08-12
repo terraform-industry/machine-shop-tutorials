@@ -29,13 +29,13 @@ What I use for most of my fabrication work:
 
 When ±1/16" won't cut it:
 
-![Pocket Carbide Scribe](/images/70AX_pocket_scribe.png)
+![Pocket Carbide Scribe](../images/70AX_pocket_scribe.png)
 _Never be without a good quality pocket scribe!_
 
 For more precision, I use a scribe. I particularly like a small square that
 combines features of a combination square and a machinist square:
 
-![Starrett 150mm Machinists Square](/images/machinists_square.png)  
+![Starrett 150mm Machinists Square](../images/machinists_square.png)  
 _That little combo square/machinist square hybrid:_
 
 - Set length precisely
@@ -89,7 +89,7 @@ wandering, especially when hand drilling. I use old-school style center
 punches with a 90-degree point. These work well on most materials including
 aluminum and steel, giving a good point for the drill to follow.
 
-![Automatic Center Punch](/images/automatic_center_punch.jpg)
+![Automatic Center Punch](../images/automatic_center_punch.jpg)
 
 ### Automatic Center Punches
 

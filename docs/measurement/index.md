@@ -36,7 +36,7 @@ You should be comfortable with:
 - Handling delicate tools without dropping them
 
 If you're still converting 0.001" to fractions, start with the
-[fundamental skills](../fundamental_skills/) section first.
+[fundamental skills](../fundamentals/index.md) section first.
 
 ## The Golden Rule
 

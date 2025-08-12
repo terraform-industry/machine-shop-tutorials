@@ -12,6 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -23,14 +24,16 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Location**
+## Location
+
 - Page/Section: [e.g., Drill Press Mastery / Speeds and Feeds]
 - URL: [e.g., https://jonilsson.github.io/machine-shop-tutorials/drill-press/speeds-feeds-fluids/]
 
 **Device (please complete the following information):**
- - OS: [e.g., Windows, macOS, Linux]
- - Browser: [e.g., Chrome, Firefox, Safari]
- - Version: [e.g., 22]
+
+- OS: [e.g., Windows, macOS, Linux]
+- Browser: [e.g., Chrome, Firefox, Safari]
+- Version: [e.g., 22]
 
 **Additional context**
 Add any other context about the problem here.

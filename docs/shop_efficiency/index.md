@@ -37,7 +37,7 @@ Before diving into these efficiency techniques, make sure you're comfortable wit
 - Proper work holding
 
 If any of those sound fuzzy, make sure you have got the
-[fundamental skills](../fundamental_skills/) first.
+[fundamental skills](../fundamentals/index.md) first.
 
 ### Why This Matters
 

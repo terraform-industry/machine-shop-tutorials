@@ -13,7 +13,8 @@ What machining topic would you like to see covered?
 **Current Challenge**
 What problem are you trying to solve that this tutorial would help with?
 
-**Target Skill Level**
+## Target Skill Level
+
 - [ ] Beginner
 - [ ] Intermediate
 - [ ] Advanced
@@ -21,6 +22,7 @@ What problem are you trying to solve that this tutorial would help with?
 
 **Suggested Content**
 What specific information should be included? (check all that apply)
+
 - [ ] Theory/principles
 - [ ] Step-by-step procedures
 - [ ] Tool selection
@@ -34,10 +36,12 @@ What specific information should be included? (check all that apply)
 Are there existing tutorials this would complement or build upon?
 
 **Additional Resources**
-Do you have any reference materials, videos, or other resources that demonstrate this topic well?
+Do you have any reference materials, videos, or other resources that
+demonstrate this topic well?
 
 **Priority**
 How urgently is this tutorial needed?
+
 - [ ] Nice to have
 - [ ] Would be helpful
 - [ ] Important

@@ -1,3 +1,5 @@
+# Pull Request
+
 ## Description
 <!-- Provide a brief description of the changes in this PR -->
 
@@ -7,15 +9,16 @@
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New tutorial/documentation (new content for users)
 - [ ] Enhancement (improvement to existing documentation)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Breaking change (fix or feature that would cause existing
+      functionality to not work as expected)
 - [ ] This change requires a documentation update
 
 ## Content Changes
 <!-- List the main documentation changes -->
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Checklist
 <!-- Mark completed items with an "x" -->
