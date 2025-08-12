@@ -7,7 +7,7 @@ A comprehensive wiki-book for machinists, fabricators, and makers.
 
 ## 📚 Visit the Wiki
 
-**[View the Machine Shop Tutorials Wiki →](https://jonilsson.github.io/machine-shop-tutorials/)**
+**[View the Machine Shop Tutorials Wiki →](https://terraform-industry.github.io/machine-shop-tutorials/)**
 
 ## 🔧 About This Repository
 
@@ -74,7 +74,7 @@ See [LICENSE.md](LICENSE.md) for details.
 *Building the future, one chip at a time.*
 
 <!-- Badge Links -->
-[deploy-badge]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/deploy.yml/badge.svg
-[deploy-url]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/deploy.yml
-[lint-badge]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/ci.yml/badge.svg
-[lint-url]: https://github.com/JoNilsson/machine-shop-tutorials/actions/workflows/ci.yml
+[deploy-badge]: https://github.com/terraform-industry/machine-shop-tutorials/actions/workflows/deploy.yml/badge.svg
+[deploy-url]: https://github.com/terraform-industry/machine-shop-tutorials/actions/workflows/deploy.yml
+[lint-badge]: https://github.com/terraform-industry/machine-shop-tutorials/actions/workflows/ci.yml/badge.svg
+[lint-url]: https://github.com/terraform-industry/machine-shop-tutorials/actions/workflows/ci.yml
