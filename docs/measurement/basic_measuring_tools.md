@@ -239,4 +239,3 @@ Good measurement is about consistency and cleanliness more than expensive tools.
 But also... buy Mitutoyo when you can afford it. The good stuff really is better.
 Be careful though, there are lots of fake ass clones out there on Uncle Jeff's website.  
 _If it seems to good to be true, **it is!**_
-

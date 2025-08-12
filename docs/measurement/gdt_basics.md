@@ -4,14 +4,16 @@ When ±0.005" isn't enough information and the print looks like hieroglyphics.
 
 ## Why GD&T Exists
 
-Traditional tolerances says "this hole is 0.500" ±0.005"". But that doesn't tell you:
+Traditional tolerances says "this hole is 0.500" ±0.005"". But that
+doesn't tell you:
 
 - Can the hole be tilted?
 - What if it's ovate?
 - How far off center can it be?
 - Does it matter if it's perpendicular?
 
-GD&T answers these questions. It's a pain in the ass, but it prevents $50,000 scrap parts.
+GD&T answers these questions. It's a pain in the ass, but it prevents
+$50,000 scrap parts.
 
 ## The Symbols You'll Actually See
 
@@ -23,7 +25,8 @@ The most common and most important.
 ⊕ 0.010 M A B C
 ```
 
-Means: This feature can be off position by 0.010" max relative to datums A, B, and C.
+Means: This feature can be off position by 0.010" max relative to datums
+A, B, and C.
 
 **What it really means**:
 
@@ -162,7 +165,8 @@ No bonus tolerance buddy. The tolerance is **the tolerance**, period.
 ### Poor Man's Position Check
 
 No CMM? Hey, no problem!
-(_Coordinate Measuring Machine - A $100K+ robot that measures parts automatically_)
+(_Coordinate Measuring Machine - A $100K+ robot that measures parts
+automatically_)
 
 **For holes**:
 
@@ -212,7 +216,8 @@ Be honest with yourself. You need a CMM when:
 ### In Design
 
 1. **Over-constraining**: Every feature doesn't need GD&T
-2. **Impossible tolerances**: 0.0001" position on a drilled hole? Get the fuck out of here!
+2. **Impossible tolerances**: 0.0001" position on a drilled hole? Get the
+   fuck out of here!
 3. **Wrong symbols**: Using Concentricity when they mean runout
 4. **No datum structure**: Symbols without clear references or hierarchy
 
@@ -255,7 +260,9 @@ Sometimes the engineer went crazy with GD&T:
 
 _"Does this need to be inspected or just made to print?"_
 
-Sometimes they just want best effort. Sometimes they're buying a CMM report (full measurement documentation from the Coordinate Measuring Machine). Know the difference.
+Sometimes they just want best effort. Sometimes they're buying a CMM report
+(full measurement documentation from the Coordinate Measuring Machine). Know
+the difference.
 
 ## Quick Reference Cheat Sheet
 
@@ -294,6 +301,9 @@ Sometimes they just want best effort. Sometimes they're buying a CMM report (ful
 
 ## Just The Basics
 
-These are just the very basics of GD&T. It's a big subject, but most of the rest of it will lie in edge cases and not day-to-day encounters.
-Start with position and perpendicularity - in reality, those cover about 80% of all the scenarios.
-And remember: When in doubt, ask what the part does. Sometimes the print is wrong, and you're the only one who'll catch it.
+These are just the very basics of GD&T. It's a big subject, but most of
+the rest of it will lie in edge cases and not day-to-day encounters.
+Start with position and perpendicularity - in reality, those cover about
+80% of all the scenarios.
+And remember: When in doubt, ask what the part does. Sometimes the print is
+wrong, and you're the only one who'll catch it.

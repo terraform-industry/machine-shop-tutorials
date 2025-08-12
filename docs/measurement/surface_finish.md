@@ -373,4 +373,3 @@ Know the difference and save yourself time.
 | 8        | 0.001 max   | Mirror-ish         | Seals, critical  |
 
 Remember: Good surface finish is 20% settings, 30% tool condition, and 50% giving a damn.
-

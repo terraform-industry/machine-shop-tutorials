@@ -34,4 +34,3 @@ If you're still converting 0.001" to fractions, start with the [fundamental skil
 
 **Measure twice, cut once** sounds like some boomer advice, but it'll save your ass more times than you can count.  
 The corollary: **Never trust, always verify**.
-
