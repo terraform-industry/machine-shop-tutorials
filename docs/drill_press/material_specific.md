@@ -196,14 +196,14 @@ challenges:
 
 ## Material-Specific Quick Reference
 
-| Material     | Speed Mult. | Drill Type | Coolant    | Notes                    |
-| ------------ | ----------- | ---------- | ---------- | ------------------------ |
-| Mild Steel   | 1x          | HSS/Split  | Water/Oil  | Baseline reference       |
-| Stainless    | 0.3-0.4x    | Cobalt     | Required   | Maintain feed, avoid dwelling |
-| Aluminum     | 2x          | HSS        | Light oil  | Clear chips, sharp drills |
-| Cast Iron    | 1x          | HSS        | Dry        | Dusty, hard on tools     |
-| Brass        | 2x          | HSS        | Light oil  | Free cutting             |
-| Tool Steel   | 0.33x       | Cobalt     | Flood      | Very slow, lots of coolant |
+| Material   | Speed | Drill  | Coolant | Notes                   |
+| ---------- | ----- | ------ | ------- | ----------------------- |
+| Mild Steel | 1x    | HSS    | Oil     | Baseline reference      |
+| Stainless  | 0.3x  | Cobalt | Req     | Maintain feed, no dwell |
+| Aluminum   | 2x    | HSS    | Light   | Clear chips, sharp      |
+| Cast Iron  | 1x    | HSS    | Dry     | Dusty, hard on tools    |
+| Brass      | 2x    | HSS    | Light   | Free cutting            |
+| Tool Steel | 0.3x  | Cobalt | Flood   | Very slow, lots coolant |
 
 ---
 
@@ -211,6 +211,8 @@ challenges:
 
 - [Drill Bit Basics](drill_bit_basics.md) - Choosing the right drill for the material
 - [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Basic parameter calculations
-- [Troubleshooting Guide](troubleshooting_guide.md) - When material-specific techniques go wrong
+- [Troubleshooting Guide](troubleshooting_guide.md) - When material-specific
+  techniques go wrong
 
-**Remember**: Each material has its personality. Learn to work with them, not against them, and your drilling will improve dramatically.
+**Remember**: Each material has its personality. Learn to work with them,
+not against them, and your drilling will improve dramatically.

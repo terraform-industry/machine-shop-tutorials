@@ -17,7 +17,8 @@ exceptions.
 - Ability to read a ruler
 - Understanding of RPM (revolutions per minute)
 
-New to metalworking? Start with the [fundamental skills](../fundamental_skills/README.md) section first.
+New to metalworking? Start with the
+[fundamental skills](../fundamental_skills/README.md) section first.
 
 ## Core Skills - Start Here
 

@@ -29,7 +29,7 @@ What I use for most of my fabrication work:
 
 When ±1/16" won't cut it:
 
-![Pocket Carbide Scribe, don't leave home without it!](/images/70AX_pocket_scribe.png)
+![Pocket Carbide Scribe](/images/70AX_pocket_scribe.png)
 _Never be without a good quality pocket scribe!_
 
 For more precision, I use a scribe. I particularly like a small square that
@@ -44,8 +44,10 @@ _That little combo square/machinist square hybrid:_
 - Way faster than measuring each time
 - Has a built in scribe (don't lose it!)
 
-You can set the length needed and scribe along the edge. For even more precision,
-layout fluid helps you see scribed lines clearly against the metal surface. If you
+You can set the length needed and scribe along the edge. For even more
+precision,
+layout fluid helps you see scribed lines clearly against the metal
+surface. If you
 lack layout fluid, coloring with a marker can help track lines, though it
 does not work as well.
 
@@ -58,7 +60,8 @@ Yeah, it makes the internet mad, but it works:
 3. Drag to scribe line
 4. Cheap calipers work fine for this
 
-The problem is it's hard to see scribed lines and they look like other scratches.
+The problem is it's hard to see scribed lines and they look like other
+scratches.
 
 ### Layout Fluid - Machinist Territory
 
@@ -86,7 +89,7 @@ wandering, especially when hand drilling. I use old-school style center
 punches with a 90-degree point. These work well on most materials including
 aluminum and steel, giving a good point for the drill to follow.
 
-![Automatic Center Punching - Punch Marks the Spot!](/images/automatic_center_punch.jpg)
+![Automatic Center Punch](/images/automatic_center_punch.jpg)
 
 ### Automatic Center Punches
 

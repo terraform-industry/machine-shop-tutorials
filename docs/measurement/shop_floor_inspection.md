@@ -256,7 +256,8 @@ The future is now:
 
 ### Measuring Hot Parts
 
-Aluminum grows 0.0001" per inch per 10°C. That's 0.001" on a 1" part at 100°C. Wait for it to cool or do the math.
+Aluminum grows 0.0001" per inch per 10°C. That's 0.001" on a 1" part
+at 100°C. Wait for it to cool or do the math.
 
 ### Wrong Tool for the Job
 
@@ -371,7 +372,8 @@ Bad parts cost more than inspection time:
 
 ## The Bottom Line
 
-You can't inspect quality into parts, but you can inspect scrap out of production. Check smart:
+You can't inspect quality into parts, but you can inspect scrap out of
+production. Check smart:
 
 1. Know what matters
 2. Check it efficiently
@@ -379,4 +381,5 @@ You can't inspect quality into parts, but you can inspect scrap out of productio
 4. Adjust early
 5. Document everything
 
-The best machinists catch their mistakes before they become problems. The worst ones let QC find them. Which one do you wanna be?
+The best machinists catch their mistakes before they become problems.
+The worst ones let QC find them. Which one do you wanna be?

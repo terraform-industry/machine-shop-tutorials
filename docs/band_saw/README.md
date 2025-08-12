@@ -15,7 +15,8 @@ you know what you're doing.
 
 ## Why This Shit Matters
 
-The band saw is usually the first tool to touch your stock. Get it wrong and you're:
+The band saw is usually the first tool to touch your stock. Get it wrong
+and you're:
 
 - Fighting crooked cuts through the whole job
 - Wasting material with bad angles

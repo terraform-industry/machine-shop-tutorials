@@ -1,10 +1,12 @@
 # Horizontal Saw Setup
 
-How to make your horizontal band saw cut square and true instead of making expensive angle iron.
+How to make your horizontal band saw cut square and true instead of
+making expensive angle iron.
 
 ## The Problem
 
-You cut a piece of 2" square bar 6" long. One end measures 6", the other measures 5-7/8". Sound familiar? Your saw isn't set up right.
+You cut a piece of 2" square bar 6" long. One end measures 6", the
+other measures 5-7/8". Sound familiar? Your saw isn't set up right.
 
 ## Initial Checks
 
@@ -21,7 +23,8 @@ Before adjusting anything, check the basics.
 
 **One bad tooth** = crooked cuts forever
 
-**Fix**: Replace blade if any issues. Don't try to "get one more cut."
+**Fix**: Replace blade if any issues. Don't try to "get one more
+cut."
 
 ### Blade Tension
 
@@ -393,6 +396,8 @@ A properly set up horizontal band saw:
 - No fighting the saw
 - Actually enjoyable to use
 
-Take the time to set it up right. The hour you spend now saves days of frustration and piles of scrapped material.
+Take the time to set it up right. The hour you spend now saves days
+of frustration and piles of scrapped material.
 
-Remember: That crooked cut gets magnified through every operation that follows. Start square, stay square.
+Remember: That crooked cut gets magnified through every operation
+that follows. Start square, stay square.

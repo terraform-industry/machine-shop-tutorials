@@ -1,6 +1,7 @@
 # Surface Finish
 
-What those little squiggly lines on prints mean, and how to achieve them without going insane.
+What those little squiggly lines on prints mean, and how to achieve
+them without going insane.
 
 ## Surface Finish Basics
 
@@ -264,7 +265,8 @@ For lathe work:
 5. Move slowly along length
 6. Instant improvement
 
-**WARNING**: Fingers + spinning things = potential for a very bad time. **Be careful!**
+**WARNING**: Fingers + spinning things = potential for a very bad time.
+**Be careful!**
 
 ### Fly Cutter Magic
 
@@ -350,7 +352,8 @@ Better to say no than make scrap.
 
 ## The Reality
 
-Most prints over-specify surface finish. That `16 µin` callout on a bracket? Nobody's checking. But when it matters, it REALLY matters:
+Most prints over-specify surface finish. That `16 µin` callout on a
+bracket? Nobody's checking. But when it matters, it REALLY matters:
 
 eg:
 
@@ -372,4 +375,5 @@ Know the difference and save yourself time.
 | 16       | 0.001-0.003 | Very smooth        | Bearing surfaces |
 | 8        | 0.001 max   | Mirror-ish         | Seals, critical  |
 
-Remember: Good surface finish is 20% settings, 30% tool condition, and 50% giving a damn.
+Remember: Good surface finish is 20% settings, 30% tool condition,
+and 50% giving a damn.

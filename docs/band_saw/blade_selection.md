@@ -57,14 +57,14 @@ The most important number on the blade.
 
 ### Carbon Steel - The Cheap Option
 
-#### Good for
+#### Best Uses
 
 - Occasional use
 - Soft materials
 - Wood (if desperate)
 - Learning/practice
 
-#### Bad for
+#### Not Suitable For
 
 - Production work
 - Hard materials
@@ -120,7 +120,7 @@ The most important number on the blade.
 |1|2|3|R|1|2|3|R|
 ```
 
-#### Good for
+#### Regular Pattern Uses
 
 - General purpose
 - Consistent materials
@@ -134,7 +134,7 @@ The most important number on the blade.
 |1|_|3|_|5|_|
 ```
 
-#### Good for
+#### Skip Tooth Uses
 
 - Soft materials
 - Aluminum
@@ -149,7 +149,7 @@ The most important number on the blade.
 |1|2||3|||4|5||
 ```
 
-#### Best for
+#### Variable Pitch Uses
 
 - Reducing vibration
 - Mixed thicknesses
@@ -219,14 +219,14 @@ Some teeth straight:
 
 ### Premature Dulling
 
-#### Causes
+#### Dulling Causes
 
 - Speed too high
 - No coolant
 - Wrong TPI
 - Cheap blades
 
-#### Fix
+#### Dulling Solutions
 
 - Check speed chart
 - Use coolant
@@ -235,14 +235,14 @@ Some teeth straight:
 
 ### Blade Breaking
 
-#### Causes
+#### Breaking Causes
 
 - Tension wrong
 - Guides misaligned
 - Forcing curves
 - Material movement
 
-#### Fix
+#### Breaking Solutions
 
 - Proper tension
 - Align guides
@@ -251,14 +251,14 @@ Some teeth straight:
 
 ### Crooked Cuts
 
-#### Causes
+#### Crooked Cut Causes
 
 - Dull blade
 - Uneven set
 - Guide problems
 - Feed pressure
 
-#### Fix
+#### Crooked Cut Solutions
 
 - Replace blade
 - Check guides
@@ -267,14 +267,14 @@ Some teeth straight:
 
 ### Stripped Teeth
 
-#### Causes
+#### Stripped Teeth Causes
 
 - Too few teeth engaged
 - Material too hard
 - Hit hard spot
 - No break-in
 
-#### Fix
+#### Stripped Teeth Solutions
 
 - Right TPI
 - Slower speed
@@ -377,7 +377,7 @@ Without getting into religious wars:
 - DoAll
 - Amada
 
-#### Avoid
+### Avoid
 
 - No-name imports
 - "Bargain" multipacks
@@ -395,6 +395,6 @@ Right blade selection:
 5. Break in properly
 6. Replace when dull
 
-Remember: The most expensive blade is the one that doesn't cut. Buy
-quality, set it up right, maintain it properly. Your saw (and sanity)
-will thank you.
+Remember: The most expensive blade is the one that doesn't cut.
+Buy quality, set it up right, maintain it properly. Your saw (and
+sanity) will thank you.

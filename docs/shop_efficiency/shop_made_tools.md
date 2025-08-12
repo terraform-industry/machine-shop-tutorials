@@ -132,10 +132,11 @@ need a hole size that doesn't match any standard tools.
    ```
 
 #### Key Angles
-   - Front clearance: 10-15°
-   - Side clearance: 5-10°
-   - Side rake: 5-10° positive
-   - Keep the point sharp!
+
+- Front clearance: 10-15°
+- Side clearance: 5-10°
+- Side rake: 5-10° positive
+- Keep the point sharp!
 
 ### When to Make vs Buy
 
@@ -210,7 +211,7 @@ Custom arbors and holders solve weird work-holding problems.
 
 For turning work that's already bored.
 
-#### What It Is
+#### Arbor Description
 
 - Steel shaft with 60° centers on both ends
 - Work slides onto shaft
@@ -253,24 +254,24 @@ expanding the slotted section
 
 ### High Speed Steel (HSS)
 
-#### What It Is
+#### What HSS Is
 
 Tool steel that stays hard when hot
 
-#### Why Use It
+#### Why Use HSS
 
 - Cheap and available
 - Can grind to any shape
 - Resharpenable forever
 - Good for learning
 
-#### Best For
+#### HSS Best For
 
 Lathe tools, boring bars, form tools
 
 ### Carbide
 
-#### What It Is
+#### What Carbide Is
 
 Tungsten carbide - way harder than HSS
 
@@ -279,14 +280,14 @@ Tungsten carbide - way harder than HSS
 - **Brazed carbide**: Carbide tip silver-soldered to steel body
 - **Insert tooling**: Replaceable carbide inserts in steel holders
 
-#### Why Use It
+#### Why Use Carbide
 
 - Stays sharp longer
 - Cuts faster
 - Handles interrupted cuts
 - Better finish
 
-#### Best For
+#### Carbide Best For
 
 Production tools, hard materials
 

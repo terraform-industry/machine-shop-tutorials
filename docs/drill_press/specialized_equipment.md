@@ -196,9 +196,12 @@ For maximum rigidity:
 
 ## Related Chapters
 
-- [Drill Bit Basics](drill_bit_basics.md) - Understanding standard drilling tools
-- [Work Holding and Safety](work_holding_safety.md) - Safety considerations for specialized equipment
-- [Material-Specific Techniques](material_specific.md) - When to use specialized tools
+- [Drill Bit Basics](drill_bit_basics.md) - Understanding standard
+  drilling tools
+- [Work Holding and Safety](work_holding_safety.md) - Safety
+  considerations for specialized equipment
+- [Material-Specific Techniques](material_specific.md) - When to use
+  specialized tools
 
 **Remember**: Specialized tools solve specific problems. Understand the
 limitations of standard techniques before investing in specialty equipment.

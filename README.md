@@ -21,22 +21,24 @@ a comprehensive guide covering:
 ## 🚀 Quick Start (For Contributors)
 
 ### Using Nix (Recommended)
+
 ```bash
 nix develop
 make serve
 ```
 
 ### Manual Setup
+
 ```bash
 pip install -r requirements.txt
 mkdocs serve
 ```
 
-Visit http://localhost:8000 to view the documentation locally.
+Visit <http://localhost:8000> to view the documentation locally.
 
 ## 📁 Repository Structure
 
-```
+```text
 .
 ├── docs/           # MkDocs source files (the wiki content)
 ├── site/           # Built static site (git-ignored)

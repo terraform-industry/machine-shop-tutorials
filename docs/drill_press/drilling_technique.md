@@ -216,8 +216,10 @@ countersink, though it works especially well on aluminum.
 ## Related Chapters
 
 - [Layout and Marking](layout_and_marking.md) - Getting positioned for success
-- [Work Holding and Safety](work_holding_safety.md) - Securing work during drilling
-- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Setting optimal parameters
+- [Work Holding and Safety](work_holding_safety.md) - Securing work
+  during drilling
+- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Setting
+  optimal parameters
 - [Precision Techniques](precision_techniques.md) - Advanced drilling methods
 
 **Remember**: Good technique beats expensive tools every time. Take your time,

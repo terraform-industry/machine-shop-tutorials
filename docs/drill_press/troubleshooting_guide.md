@@ -1,21 +1,22 @@
 # Troubleshooting Guide - When Things Go Wrong
 
-Even experienced operators encounter problems. The key is recognizing the
-symptoms early and knowing how to correct them. This chapter covers the most
-common drilling problems, their causes, and practical solutions.
+Even experienced operators encounter problems. The key is recognizing
+the symptoms early and knowing how to correct them. This chapter covers
+the most common drilling problems, their causes, and practical
+solutions.
 
 ## Reading Chip Problems
 
-Your chips don't lie - they tell the complete story of what's happening at
-the cutting edge. Learning to interpret them gives you real-time feedback
-on your drilling operation.
+Your chips don't lie - they tell the complete story of what's
+happening at the cutting edge. Learning to interpret them gives you
+real-time feedback on your drilling operation.
 
 ### Steel Chip Analysis
 
 **Good steel chips**:
 
 - 6's and 9's shape = perfect speed and feed
-- Consistent curl and break = optimal parameters  
+- Consistent curl and break = optimal parameters
 - Slight straw color = acceptable heat
 - Breaking every 1-2 curls = correct brittleness
 
@@ -32,7 +33,8 @@ on your drilling operation.
 **Aluminum chip issues**:
 
 - **Built-up edge on drill** = speed too slow
-- **Chips won't evacuate** = flutes clogged, back off and clear
+- **Chips won't evacuate** = flutes clogged, back off and
+  clear
 - **Oxidized chips** = insufficient coolant
 - **Torn surface** = drill dull or wrong geometry
 
@@ -279,7 +281,7 @@ When drill bits break in the hole:
    - EDM removal for hardened pieces
    - Drill around and plug weld (last resort)
 
-### Work Holding Failures
+### Emergency Work Holding Recovery
 
 When work comes loose:
 
@@ -335,11 +337,15 @@ Before starting any drilling operation:
 
 ## Related Chapters
 
-- [Drill Bit Basics](drill_bit_basics.md) - Understanding when bits need replacement
-- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Getting parameters right the first time
-- [Work Holding and Safety](work_holding_safety.md) - Preventing work holding failures
-- [Material-Specific Techniques](material_specific.md) - Avoiding material-specific problems
+- [Drill Bit Basics](drill_bit_basics.md) - Understanding when bits
+  need replacement
+- [Speeds, Feeds, and Fluids](speeds_feeds_fluids.md) - Getting
+  parameters right the first time
+- [Work Holding and Safety](work_holding_safety.md) - Preventing work
+  holding failures
+- [Material-Specific Techniques](material_specific.md) - Avoiding
+  material-specific problems
 
-**Remember**: Most drilling problems are preventable with proper setup,
-technique, and maintenance. Learn to recognize early warning signs and
-address them before they become major issues.
+**Remember**: Most drilling problems are preventable with proper
+setup, technique, and maintenance. Learn to recognize early warning
+signs and address them before they become major issues.

@@ -2,10 +2,10 @@
 
 ## The Oddball
 
-The 5-hole pattern is the weirdo. No nice round numbers here, no simple
-fractions. With 4, 6, or 8 holes, you get nice angles that play well with
-shop math. But 5 holes? That's 72° spacing (360° ÷ 5 = 72°), and 72°
-doesn't give you any of those _clean_ ratios.
+The 5-hole pattern is the weirdo. No nice round numbers here, no
+simple fractions. With 4, 6, or 8 holes, you get nice angles that
+play well with shop math. But 5 holes? That's 72° spacing (360° ÷ 5 =
+72°), and 72° doesn't give you any of those _clean_ ratios.
 
 ## Understanding The Problem
 
@@ -16,14 +16,14 @@ For a 5-hole pattern, you're going to need:
 - **Sin(36°) = 0.5878**
 - **Cos(36°) = 0.8090**
 
-Sorry, I don't have any mnemonic tricks to help you remember this one.
-Not exactly numbers you'll memorize like 0.7071 or 0.86603. Just bookmark
-this tutorial.
+Sorry, I don't have any mnemonic tricks to help you remember this
+one. Not exactly numbers you'll memorize like 0.7071 or 0.86603.
+Just bookmark this tutorial.
 
 ## Practical Method
 
-There is a practical method though. So here's how I do it without b0rking
-my brains.
+There is a practical method though. So here's how I do it without
+borking my brains.
 
 ### Step 1: First Hole on the X-axis
 
@@ -65,15 +65,15 @@ _Figure 2: The trigonometry behind the weird numbers_
 
 ### Method 1: The Template
 
-Once you calculate one 5-hole pattern, make a template. Drill it in
-aluminum plate and keep it on your pegboard. Future you will thank present
-you.
+Once you calculate one 5-hole pattern, make a template. Drill it
+in aluminum plate and keep it on your pegboard. Future you will
+thank present you.
 
 ### Method 2: CAD Cop-Out
 
-It's 2025 and we all have pocket sized supercomputers. Fire up a CAD app,
-draw your bolt circle, array 5 holes, read the coordinates. No shame in
-using technology.
+It's 2025 and we all have pocket sized supercomputers. Fire up a
+CAD app, draw your bolt circle, array 5 holes, read the coordinates.
+No shame in using technology.
 
 ### Method 3: Grandpa's Sine Bar
 
@@ -89,15 +89,25 @@ If you have inherited a sine bar and you're feeling saucy:
 
 ## Quick Reference Table
 
-| Bolt Circle | Radius | Hole 1    | Hole 2         | Hole 3          | Hole 4           | Hole 5          |
-| ----------- | ------ | --------- | -------------- | --------------- | ---------------- | --------------- |
-| 80mm        | 40mm   | (40, 0)   | (12.36, 38.04) | (-32.36, 23.51) | (-32.36, -23.51) | (12.36, -38.04) |
-| 100mm       | 50mm   | (50, 0)   | (15.45, 47.55) | (-40.45, 29.39) | (-40.45, -29.39) | (15.45, -47.55) |
-| 127mm (5")  | 63.5mm | (63.5, 0) | (19.62, 60.39) | (-51.37, 37.32) | (-51.37, -37.32) | (19.62, -60.39) |
+| Circle | R    | H1      | H2          | H3           |
+| ------ | ---- | ------- | ----------- | ------------ |
+| 80mm   | 40   | (40, 0) | (12.36, 38) | (-32.36, 24) |
+
+| Circle | H4           | H5          |
+| ------ | ------------ | ----------- |
+| 80mm   | (-32.36, -24) | (12.36, -38) |
+| 100mm  | (-40.45, -29) | (15.45, -48) |
+| 127mm  | (-51.37, -37) | (19.62, -60) |
+
+| Circle | R    | H1       | H2          | H3          |
+| ------ | ---- | -------- | ----------- | ----------- |
+| 100mm  | 50   | (50, 0)  | (15.45, 48) | (-40.45, 29) |
+| 127mm  | 63.5 | (63.5,0) | (19.62, 60) | (-51.37, 37) |
 
 ## The Constants
 
-Instead of memorizing sines and cosines, just remember these multipliers for your radius:
+Instead of memorizing sines and cosines, just remember these
+multipliers for your radius:
 
 - **Position 1**: X = R × 1.0000, Y = 0
 - **Position 2**: X = R × 0.3090, Y = R × 0.9511
@@ -121,17 +131,20 @@ _Figure 3: Measuring chord length to verify your pattern_
 
 ## Real Talk
 
-5-hole patterns are rare for a reason. They're a pain in the ass. If
-you're designing something and thinking "hmm, 5 bolts would be perfect here"
+5-hole patterns are rare for a reason. They're a pain in the ass.
+If you're designing something and thinking "hmm, 5 bolts would be
+perfect here"
+
 - stop. Use 4. Use 6.
 Your machinist might even buy you a beer. 🍻
 
-But when you absolutely must do a 5-hole pattern (yeah, I'm looking at you
-low-rider wheel adapter dudes), now you know how. Just don't expect it to
-be fun.
+But when you absolutely must do a 5-hole pattern (yeah, I'm looking
+at you low-rider wheel adapter dudes), now you know how. Just don't
+expect it to be fun.
 
 ## Pro Tip
 
-If you find yourself doing a lot of 5-hole patterns, invest in a rotary
-table or a dividing head. Set it to 72° increments and save your sanity.
-The math works, and it's a cool flex, but a rotary table works better.
+If you find yourself doing a lot of 5-hole patterns, invest in a
+rotary table or a dividing head. Set it to 72° increments and save
+your sanity. The math works, and it's a cool flex, but a rotary table
+works better.

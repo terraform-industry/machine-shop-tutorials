@@ -259,9 +259,13 @@ When drilling multiple identical parts:
 
 ## Related Chapters
 
-- [Drilling Technique](drilling_technique.md) - Foundation techniques for precision work
-- [Work Holding and Safety](work_holding_safety.md) - Critical for precision operations
-- [Troubleshooting Guide](troubleshooting_guide.md) - When precision techniques go wrong
+- [Drilling Technique](drilling_technique.md) - Foundation techniques
+  for precision work
+- [Work Holding and Safety](work_holding_safety.md) - Critical for
+  precision operations
+- [Troubleshooting Guide](troubleshooting_guide.md) - When precision
+  techniques go wrong
 
 **Remember**: Precision techniques require patience and attention to detail.
-Don't expect machining-level results without machining-level care in your setup and execution.
+Don't expect machining-level results without machining-level care in
+your setup and execution.

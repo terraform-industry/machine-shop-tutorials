@@ -1,6 +1,7 @@
 # Basics of Geometric Dimensioning and Tolerances (GD&T)
 
-When ±0.005" isn't enough information and the print looks like hieroglyphics.
+When ±0.005" isn't enough information and the print looks like
+hieroglyphics.
 
 ## Why GD&T Exists
 
@@ -21,22 +22,23 @@ $50,000 scrap parts.
 
 The most common and most important.
 
-```md
+```text
 ⊕ 0.010 M A B C
 ```
 
-Means: This feature can be off position by 0.010" max relative to datums
-A, B, and C.
+Means: This feature can be off position by 0.010" max relative to
+datums A, B, and C.
 
 **What it really means**:
 
-- The center of your hole can be anywhere inside a 0.010" diameter circle
+- The center of your hole can be anywhere inside a 0.010" diameter
+  circle
 - That circle is centered on the perfect location
 - Way more forgiving than ± tolerances
 
 ### Perpendicularity ⊥
 
-```md
+```text
 ⊥ 0.002 A
 ```
 
@@ -258,7 +260,7 @@ Sometimes the engineer went crazy with GD&T:
 
 ### The Magic Words
 
-_"Does this need to be inspected or just made to print?"_
+"Does this need to be inspected or just made to print?"
 
 Sometimes they just want best effort. Sometimes they're buying a CMM report
 (full measurement documentation from the Coordinate Measuring Machine). Know
@@ -266,14 +268,14 @@ the difference.
 
 ## Quick Reference Cheat Sheet
 
-| Symbol | Name          | How to Check            | Shop Reality                  |
-| ------ | ------------- | ----------------------- | ----------------------------- |
-| ⊕      | Position      | CMM or trig             | Most common, learn this first |
-| ⊥      | Perpendicular | Square + feelers        | Usually 0.002-0.005"          |
-| ∥      | Parallel      | Indicator sweep         | Like flatness but relative    |
-| ⏥      | Flatness      | Surface plate           | Under 0.001" is hard          |
-| ◎      | Concentricity | CMM only                | Probably meant runout         |
-| ⟲      | Runout        | Indicate while spinning | Actually measurable           |
+| Symbol | Name        | How to Check    | Shop Reality           |
+| ------ | ----------- | --------------- | ---------------------- |
+| ⊕      | Position    | CMM or trig     | Common, learn first    |
+| ⊥      | Perpendic   | Square+feelers  | Usually 0.002-0.005"   |
+| ∥      | Parallel    | Indicator sweep | Like flatness but rel  |
+| ⏥      | Flatness    | Surface plate   | Under 0.001" is hard   |
+| ◎      | Concentric  | CMM only        | Probably meant runout  |
+| ⟲      | Runout      | Indicate spin   | Actually measurable    |
 
 ## Your GD&T Survival Kit
 

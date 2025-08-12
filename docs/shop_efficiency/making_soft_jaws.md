@@ -4,30 +4,30 @@ Author: Johannes A. Nilsson
 
 ## Why Soft Jaws Will Change Your Life
 
-Hard jaws are great for general work, but soft jaws are what separate the
-pros from the weekend warriors. Custom jaws mean perfect holding, no marking,
-and repeatability that is the only way to make high production work
-sustainable and profitable.
+Hard jaws are great for general work, but soft jaws are what separate
+the pros from the weekend warriors. Custom jaws mean perfect holding,
+no marking, and repeatability that is the only way to make high
+production work sustainable and profitable.
 
 ## Material Selection
 
 ### Aluminum (The Standard)
 
-**6061-T6**:
+#### 6061-T6
 
 - Machines like butter
 - Strong enough for almost all work
 - Cheap enough to experiment with
 - Won't mark steel parts
 
-**7075-T6**:
+#### 7075-T6
 
 - When 6061 isn't strong enough
 - Better for heavy cuts
 - More expensive
 - Harder to machine
 
-**Cast Aluminum**:
+#### Cast Aluminum
 
 - Cheap as dirt
 - Machines okay
@@ -36,21 +36,21 @@ sustainable and profitable.
 
 ### Alternative Materials
 
-**Delrin/Acetal**:
+#### Delrin/Acetal
 
 - Won't mark anything
 - Great for polished parts
 - Limited holding power
 - Too expensive
 
-**Brass**:
+#### Brass
 
 - Won't mark steel
 - Heavy (good for vibration)
 - Also expensive
 - Specific applications only
 
-**Steel**:
+#### Steel
 
 - For serious gripping
 - When aluminum won't cut it
@@ -80,8 +80,8 @@ Every soft jaw needs:
 
 ### Initial Setup
 
-**CRITICAL**: Machine soft jaws IN PLACE on your vise. Never remove and
-replace - they won't be true.
+**CRITICAL**: Machine soft jaws IN PLACE on your vise. Never remove
+and replace - they won't be true.
 
 1. **Install blanks** in vise
 2. **Tighten to working pressure** (not gorilla tight)
@@ -90,14 +90,14 @@ replace - they won't be true.
 
 ### The Two-Step Process
 
-**Step 1: Roughing**
+#### Step 1: Roughing
 
 - Leave 0.010" stock
 - Use bigger tools
 - Don't worry about finish
 - Clear chips often
 
-**Step 2: Finishing**
+#### Step 2: Finishing
 
 - Final dimension
 - Good surface finish
@@ -106,7 +106,7 @@ replace - they won't be true.
 
 ### Cutting the Profile
 
-**For Round Parts**:
+#### For Round Parts
 
 ```text
 1. Find center with indicator
@@ -115,7 +115,7 @@ replace - they won't be true.
 4. Adjust if needed
 ```
 
-**For Square Parts**:
+#### For Square Parts
 
 ```text
 1. Mill first surface
@@ -124,7 +124,7 @@ replace - they won't be true.
 4. Verify with part
 ```
 
-**For Weird Shapes**:
+#### For Weird Shapes
 
 ```text
 1. Cry a little
@@ -252,7 +252,8 @@ Every set of jaws needs:
 - Visible storage
 - Easy access
 - Takes wall space, great if you have that to spare
-- Quickly allows you to see the inventory (nothing beats that immediacy)
+- Quickly allows you to see the inventory (nothing beats that
+  immediacy)
 
 **Drawer System**:
 
@@ -263,7 +264,8 @@ Every set of jaws needs:
 
 **Job Boxes**:
 
-_This one is really only for remote work situation, site installations, etc._
+_This one is really only for remote work situation, site
+installations, etc._
 
 - Jaws stay with job
 - Everything together
@@ -279,7 +281,8 @@ _This one is really only for remote work situation, site installations, etc._
 - 15 minutes per part
 - Marking/scrapping on work
 - Inconsistent work holding
-- Higher potential for work to end up in the scrap pile and not the parts bin
+- Higher potential for work to end up in the scrap pile and not
+  the parts bin
 
 **Soft Jaw Setup**:
 
@@ -378,16 +381,16 @@ For deep jaws, use a boring bar instead of long end mills.
 
 ## Final Wisdom
 
-Soft jaws are like a Tailored Italian Suit - they're made for one specific
-purpose, and they do that purpose perfectly. The time you spend making them is
-paid back tenfold in production efficiency, stress reduction, and most
-importantly the final part quality.
+Soft jaws are like a Tailored Italian Suit - they're made for one
+specific purpose, and they do that purpose perfectly. The time you
+spend making them is paid back tenfold in production efficiency,
+stress reduction, and most importantly the final part quality.
 
-Start simple. Your first soft jaws don't need every fancy feature. Make
-basic jaws that hold your part securely without marking. As you get
-comfortable, add features. Before long, you'll wonder how you ever lived
-without them.
+Start simple. Your first soft jaws don't need every fancy feature.
+Make basic jaws that hold your part securely without marking. As you
+get comfortable, add features. Before long, you'll wonder how you
+ever lived without them.
 
-And remember - the best soft jaws are the ones that make the job easier, not
-the ones that look prettiest. You know what I always say, "_Function over
-form, **always!**_"
+And remember - the best soft jaws are the ones that make the job
+easier, not the ones that look prettiest. You know what I always say,
+"_Function over form, **always!**_"

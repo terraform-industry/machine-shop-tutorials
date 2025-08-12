@@ -63,7 +63,7 @@ mkdocs gh-deploy                # Deploy to GitHub Pages
 
 ## Project Structure
 
-```
+```text
 machine-shop-tutorials/
 ├── mkdocs.yml          # MkDocs configuration
 ├── flake.nix           # Nix development environment

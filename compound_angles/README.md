@@ -4,28 +4,31 @@ Author: Johannes A. Nilsson
 
 ## The Problem Nobody Warns You About
 
-So the print says "drill 3/8 hole at 35° from surface, 15° from edge." 
-Cool story bro, but how the hell do you actually set that up on a 
+So the print says "drill 3/8 hole at 35° from surface, 15° from edge."
+Cool story bro, but how the hell do you actually set that up on a
 Bridgeport?
 
-Look, I'm not a machinist. I'm a hacker who needed to make weird parts 
-and figured this out the hard way through a lot of scrap metal and 
-swearing. This tutorial covers the dirty tricks for calculating and 
-setting up compound angles without a 5-axis machine or a math degree, so 
-you don't have to suffer like I did.
+Look, I'm not a machinist. I'm a hacker who needed to make weird parts
+and figured this out the hard way through a lot of scrap metal and
+swearing. This tutorial covers the dirty tricks for calculating and
+setting up compound angles without a 5-axis machine or a math degree,
+so you don't have to suffer like I did.
 
 ## Understanding Compound Angles
 
-A compound angle is when you need to tilt in two directions at once. Think of it like this:
+A compound angle is when you need to tilt in two directions at once. Think of
+it like this:
 
 - **Simple angle**: Tilting your drill press table to drill at 45°
-- **Compound angle**: That same hole also needs to be rotated 20° from the front face
+- **Compound angle**: That same hole also needs to be rotated 20° from the
+  front face
 
 It's the difference between a ramp and a twisted ramp.
 
 ## Tilt and Rotate Method
 
-If you're lucky enough to have access to a mill with a tilting head, this is probably the most practical approach.
+If you're lucky enough to have access to a mill with a tilting head, this
+is probably the most practical approach.
 
 ### Process
 
@@ -52,7 +55,8 @@ $$= \arctan\left(\frac{0.2679}{0.9063}\right)$$
 
 $$= \arctan(0.2956) = 16.47°$$
 
-So you rotate 16.47°, not 15°. Miss this and your hole ends up in your vise!
+So you rotate 16.47°, not 15°. Miss this and your hole ends up in
+your vise!
 
 ## Triangles Make Life Easier
 
@@ -65,14 +69,21 @@ For repeat work, make yourself a compound angle block.
 3. **Drill and ream a hole** perpendicular to the angled face
 4. **Use it as a drill guide** _forever_
 
-Pro tip: Stamp the angles on the block. Lest you forget, future you is forgetful.
+Pro tip: Stamp the angles on the block. Lest you forget, future you is
+forgetful.
 
 ## Grandpa's Sine Bar Method
 
-Got a sine bar gathering dust in your tool chest? Probably inherited from some dead guy who actually knew how to use it?  
-Well, thank him for passing it on, because you can use it for compound angles too. A real machinist would use two sine bars for this.
-But having TWO sine bars is like finding a unicorn. If you are that guy, kudos to you.  
-I was just lucky enough to have only one that some old timer left behind. So here's the real-world approach:
+Got a sine bar gathering dust in your tool chest? Probably inherited from
+some dead guy who actually knew how to use it?
+
+Well, thank him for passing it on, because you can use it for compound
+angles too. A real machinist would use two sine bars for this.
+But having TWO sine bars is like finding a unicorn. If you are that
+guy, kudos to you.
+
+I was just lucky enough to have only one that some old timer left
+behind. So here's the real-world approach:
 
 ### What You Actually Have
 
@@ -102,7 +113,8 @@ Use your vise:
 3. Calculate shim height based on vise jaw width and needed angle
 4. Cross your fingers and take light cuts
 
-If you are that well equipped guy, got lucky at the estate sale, or you have a company charge card‒life with TWO sine bars is much nicer.  
+If you are that well equipped guy, got lucky at the estate sale, or
+you have a company charge card - life with TWO sine bars is much nicer.
 Read on, the following is for you.
 
 ### Example: 30° from vertical, 20° from front
@@ -118,16 +130,20 @@ Read on, the following is for you.
 
 ## Quick Reference Formulas
 
-Look, I know math isn't everyone's strong suit, so let me break this down for the n00bs:
+Look, I know math isn't everyone's strong suit, so let me break this down
+for the n00bs:
 
 ### For Tilt and Rotate
 
-- **Tilt angle**: $A$ (as printed) - this one's easy, just use what's on the drawing
+- **Tilt angle**: $A$ (as printed) - this one's easy, just use what's on
+  the drawing
 - **Rotation angle**: This is where it gets tricky
 
 $$\theta_{rotation} = \arctan\left(\frac{\tan(B)}{\cos(A)}\right)$$
 
-**What this means**: When you tilt the head, the rotation angle changes. The formula compensates for this. If you just rotate by angle B without this correction, your hole will be off.
+**What this means**: When you tilt the head, the rotation angle
+changes. The formula compensates for this. If you just rotate by angle B
+without this correction, your hole will be off.
 
 **Calculator steps**:
 
@@ -143,24 +159,29 @@ $$\theta_{rotation} = \arctan\left(\frac{\tan(B)}{\cos(A)}\right)$$
 
 $$\theta_{second} = B \times \cos(A)$$
 
-**Why this works**: The second angle gets "compressed" when you tilt the first sine bar. Think of looking at a tilted picture frame - it looks narrower from the side. Same deal here.
+**Why this works**: The second angle gets "compressed" when you tilt
+the first sine bar. Think of looking at a tilted picture frame - it
+looks narrower from the side. Same deal here.
 
 ### For Resultant Angle
 
-Want to know what angle your tool actually makes with the surface? (Useful for checking if you'll have clearance)
+Want to know what angle your tool actually makes with the surface?
+(Useful for checking if you'll have clearance)
 
 $$\theta_{resultant} = \arccos(\cos(A) \times \cos(B))$$
 
-**In English**: Multiply the cosines of both angles, then take the arc-cosine. This tells you the true angle between your tool and the work surface. If it's over 45°, you might have clearance issues.
+**In English**: Multiply the cosines of both angles, then take the
+arc-cosine. This tells you the true angle between your tool and the
+work surface. If it's over 45°, you might have clearance issues.
 
 ## Common Compound Angles
 
-| Application            | Angle A | Angle B | Resultant | Notes                    |
-| ---------------------- | ------- | ------- | --------- | ------------------------ |
-| Drill jig bushings     | 15°     | 15°     | 21.0°     | Standard drill jig angle |
-| Countersink relief     | 30°     | 20°     | 34.8°     | Allows tool clearance    |
-| Turbine blades         | 45°     | 30°     | 51.3°     | Typical inlet angle      |
-| Weird automotive stuff | 22.5°   | 17°     | 27.5°     | Because race car         |
+| Application            | Angle A | Angle B | Result | Notes                  |
+| ---------------------- | ------- | ------- | ------ | ---------------------- |
+| Drill jig bushings     | 15°     | 15°     | 21.0°  | Standard drill jig     |
+| Countersink relief     | 30°     | 20°     | 34.8°  | Allows tool clearance  |
+| Turbine blades         | 45°     | 30°     | 51.3°  | Typical inlet angle    |
+| Weird automotive stuff | 22.5°   | 17°     | 27.5°  | Because race car       |
 
 ## Shop Tricks
 
@@ -174,13 +195,15 @@ $$\theta_{resultant} = \arccos(\cos(A) \times \cos(B))$$
 
 ### The Test Block
 
-Always do a test hole in scrap material first. Somehow compound angles have a way of being exactly wrong when you think they're right.
+Always do a test hole in scrap material first. Somehow compound
+angles have a way of being exactly wrong when you think they're right.
 
 ### The "Good Enough" Check
 
 For non-critical angles under 20°:
 
-- The error from ignoring the compound effect is about 2% per 10° of secondary angle
+- The error from ignoring the compound effect is about 2% per 10° of
+  secondary angle
 - Sometimes that's good enough
 - Sometimes it's not - so know your tolerances
 
@@ -201,13 +224,21 @@ Consider:
 
 ## Safety Note
 
-Compound angle setups are sketchy as fuck. Everything wants to slip, rotate, or launch itself across the shop and kill you.
+Compound angle setups are sketchy as fuck. Everything wants to slip, rotate,
+or launch itself across the shop and kill you.
 
-- Use proper clamping (rule of thumb, use more than you think you need)
+- Use proper clamping (rule of thumb, use more than you think you
+  need)
 - Take light cuts until you trust the setup
-- Keep your head out of the line of fire and wear a face shield AND safety glasses
+- Keep your head out of the line of fire and wear a face shield AND
+  safety glasses
 
 ## Closing Thoughts
 
-Compound angles are where real machinists earn their money and hack-ass machinists learn humility.  
-Take your time, check your math twice, and always do a test cut. And remember - if the engineer who designed the job couldn't figure out how to make it flat, that's their problem, not yours. But now you know how to solve it anyway.
+Compound angles are where real machinists earn their money and hack-ass
+machinists learn humility.
+
+Take your time, check your math twice, and always do a test cut.
+And remember - if the engineer who designed the job couldn't figure out
+how to make it flat, that's their problem, not yours. But now you know
+how to solve it anyway.

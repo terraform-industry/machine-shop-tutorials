@@ -1,16 +1,16 @@
 # Speeds, Feeds, and Fluids - The Science of Smooth Cutting
 
-Getting your cutting parameters right makes the difference between struggling
-through each hole and drilling like a professional. This chapter covers the
-practical formulas and techniques for setting optimal speeds, feeds, and
-lubrication for consistent results.
+Getting your cutting parameters right makes the difference between
+struggling through each hole and drilling like a professional. This
+chapter covers the practical formulas and techniques for setting
+optimal speeds, feeds, and lubrication for consistent results.
 
 ## Setting Speed - The Simple Formula You'll Actually Use
 
-Speed settings depend on material and hole size. I use a simple rule of thumb:
-start with a baseline of 700 RPM for a 1/2-inch hole in mild steel. Then
-adjust for hole size - smaller holes need faster speeds since the outer edges
-travel less distance per revolution.
+Speed settings depend on material and hole size. I use a simple rule
+of thumb: start with a baseline of 700 RPM for a 1/2-inch hole in mild
+steel. Then adjust for hole size - smaller holes need faster speeds
+since the outer edges travel less distance per revolution.
 
 ## My Baseline Rule
 
@@ -20,7 +20,8 @@ That's it. That's your starting point. Now adjust from there.
 
 ## Adjusting for Hole Size
 
-Smaller hole = faster speed (cutting edges travel less per revolution)
+Smaller hole = faster speed (cutting edges travel less per
+revolution)
 
 **Quick math**:
 
@@ -33,7 +34,8 @@ Smaller hole = faster speed (cutting edges travel less per revolution)
 
 **The pattern**: Double the RPM when you halve the diameter.
 
-For example, moving from 1/2-inch to 1/4-inch holes, I double the speed.
+For example, moving from 1/2-inch to 1/4-inch holes, I double the
+speed.
 
 ## Adjusting for Material
 
@@ -49,9 +51,9 @@ For example, moving from 1/2-inch to 1/4-inch holes, I double the speed.
 - Cast iron: Same as steel (maybe slower)
 - Tool steel: 1/3 the steel speed
 
-Next, adjust for material. For soft materials like aluminum, double the speed.
-For harder materials like stainless steel, cut it in half. This approach has
-served me well for most fabrication work.
+Next, adjust for material. For soft materials like aluminum, double
+the speed. For harder materials like stainless steel, cut it in half.
+This approach has served me well for most fabrication work.
 
 ## Real-World Calculation Examples
 
@@ -91,8 +93,9 @@ Let's work through some actual setups:
 
 ## Feed Pressure by Feel
 
-No numbers here - it's all in the feel! Best tip is to _let the drill bit do
-the work!_ You want to cut the hole with the least amount of pressure possible.
+No numbers here - it's all in the feel! Best tip is to _let the
+drill bit do the work!_ You want to cut the hole with the least amount
+of pressure possible.
 
 ### The Right Pressure
 
@@ -115,14 +118,14 @@ the work!_ You want to cut the hole with the least amount of pressure possible.
 - Drill dulls quickly
 - Excessive heat (smoke is bad)
 
-Remember: There's no prize for drilling fast. A steady, controlled cut beats
-rushing every time. **Speed is nothing without control!**
+Remember: There's no prize for drilling fast. A steady, controlled
+cut beats rushing every time. **Speed is nothing without control!**
 
 ## Cutting Lubricant
 
-Before drilling, apply cutting lubricant. Various types exist, but I have had
-good results with water-based lubricants. They stay in place, clean off
-easily, and do not smoke like oil-based alternatives.
+Before drilling, apply cutting lubricant. Various types exist, but I
+have had good results with water-based lubricants. They stay in place,
+clean off easily, and do not smoke like oil-based alternatives.
 
 ### Types and When
 
@@ -161,10 +164,11 @@ easily, and do not smoke like oil-based alternatives.
 
 ## Reading the Chips - Your Real-Time Feedback
 
-While drilling, watch the chips (aka: swarf) coming off to gauge progress. You want
-some curl and length to them. If they are very thin, the drill is not loading
-heavily enough. For steel, getting chips that curl but break regularly
-indicates good speed and feed rate.
+While drilling, watch the chips (aka: swarf) coming off to gauge
+progress. You want some curl and length to them. If they are very
+thin, the drill is not loading heavily enough. For steel, getting
+chips that curl but break regularly indicates good speed and feed
+rate.
 
 ### What Good Chips Tell You
 
@@ -203,7 +207,8 @@ indicates good speed and feed rate.
 - Dark gray to black color
 - Creates dust, not strings
 
-Continuous thin chips that break apart easily suggest proper drilling parameters.
+Continuous thin chips that break apart easily suggest proper drilling
+parameters.
 
 ### The Chip Color Guide
 
@@ -218,8 +223,12 @@ For steel:
 
 ## Related Chapters
 
-- [Drill Bit Basics](drill_bit_basics.md) - Understanding bit geometry and materials
-- [Material-Specific Techniques](material_specific.md) - Detailed parameters for different materials
-- [Troubleshooting Guide](troubleshooting_guide.md) - When chips tell you something's wrong
+- [Drill Bit Basics](drill_bit_basics.md) - Understanding bit geometry
+  and materials
+- [Material-Specific Techniques](material_specific.md) - Detailed
+  parameters for different materials
+- [Troubleshooting Guide](troubleshooting_guide.md) - When chips tell
+  you something's wrong
 
-**Remember**: Your chips don't lie. Learn to read them and they'll tell you everything you need to know about your drilling operation.
+**Remember**: Your chips don't lie. Learn to read them and they'll
+tell you everything you need to know about your drilling operation.

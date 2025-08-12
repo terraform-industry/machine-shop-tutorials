@@ -1,6 +1,7 @@
 # Cutting Techniques
 
-Tips and tricks for getting the most from your band saw - clean cuts, long blade life, and less frustration.
+Tips and tricks for getting the most from your band saw - clean cuts, long
+blade life, and less frustration.
 
 ## Basic Cutting Principles
 
@@ -67,13 +68,14 @@ Tips and tricks for getting the most from your band saw - clean cuts, long blade
 
 **Solutions**:
 
-- Use cutting fluid / high coolant flow
+- Use cutting fluid or high coolant flow
 - Coarser blade (6-10 TPI)
 - Transmission on high speed
 - Clear chips frequently (use compressed air gun)
 - Never let it rub
 
-**Pro tip**: Cutting stick wax on blade prior helps prevent blade loading
+**Pro tip**: Cutting stick wax on blade prior helps prevent blade
+loading
 
 ### Cutting Steel
 
@@ -310,7 +312,7 @@ Skip this = 50% blade life
 - Missing teeth
 - Blue chips
 
-**Don't push it** - blade cost < time + frustration
+**Don't push it** - blade cost is less than time plus frustration
 
 ## Problem Solving
 
@@ -482,4 +484,6 @@ Master these basics and you'll:
 - Reduce frustration
 - Make better parts
 
-Remember: The band saw is often the first operation. Start with a good cut and everything else will go smoother. Start with a bad cut and you're fighting it through the whole job.
+Remember: The band saw is often the first operation. Start with a good cut
+and everything else will go smoother. Start with a bad cut and you're
+fighting it through the whole job.

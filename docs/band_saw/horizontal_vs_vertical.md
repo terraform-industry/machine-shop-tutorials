@@ -1,10 +1,12 @@
 # Horizontal vs Vertical Band Saws
 
-Two different tools for two totally different jobs. Using the wrong one is like using a hammer as a screwdriver - it might work, but you're doing it wrong.
+Two different tools for two totally different jobs. Using the wrong
+one is like using a hammer as a screwdriver - it might work, but
+you're doing it wrong.
 
 ## Horizontal Band Saw - The Production Cutter
 
-### What It's For
+### Horizontal Primary Uses
 
 **Primary job**: Cutting stock to length
 
@@ -13,7 +15,7 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 - Production cutting
 - Hands-free operation
 
-### Why It's Great
+### Horizontal Advantages
 
 **Gravity feed**:
 
@@ -36,14 +38,14 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 - Coolant systems
 - Auto-shutoff
 
-### Typical Jobs
+### Horizontal Typical Jobs
 
 - Cutting 20 pieces of 2" square to 6" long
 - Slicing 4" round stock
 - Cutting bundles of small stock
 - Any repetitive cutting
 
-### Limitations
+### Horizontal Limitations
 
 - Can't do curves
 - Limited to straight cuts
@@ -53,7 +55,7 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 
 ## Vertical Band Saw - The Fabricator's Friend
 
-### What It's For
+### Vertical Primary Uses
 
 **Primary job**: Contour cutting and light general fabrication
 
@@ -62,7 +64,7 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 - Internal cuts
 - Irregular shapes
 
-### Why It's Great
+### Vertical Advantages
 
 **Versatility**:
 
@@ -85,14 +87,14 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 - Easy blade changes
 - Less floor space
 
-### Typical Jobs
+### Vertical Typical Jobs
 
 - Cutting profiles from plate
 - Making mild steel brackets
 - Roughing out parts
 - Trimming excess
 
-### Limitations
+### Vertical Limitations
 
 - Manual feed (tiring / dangerous)
 - Harder to get square
@@ -102,7 +104,8 @@ Two different tools for two totally different jobs. Using the wrong one is like 
 
 ### When to Change Speeds
 
-Most horizontal saws have 2-4 speed settings via belt changes or gearbox:
+Most horizontal saws have 2-4 speed settings via belt changes or
+gearbox:
 
 **High Speed (200-300 FPM)**:
 
@@ -173,7 +176,7 @@ Most horizontal saws have 2-4 speed settings via belt changes or gearbox:
 - Chip clearing
 - Less heat distortion
 
-### When NOT to Use Coolant
+### When to Skip Coolant
 
 **Never use on**:
 
@@ -345,7 +348,8 @@ Some saws do both:
 - Compromises in both
 - More to break
 
-**Reality**: Smaller como-saws are fine for home or small hobby shops, but production shops need dedicated industrial machines.
+**Reality**: Smaller combo-saws are fine for home or small hobby
+shops, but production shops need dedicated industrial machines.
 
 ## Setup Differences
 
@@ -477,10 +481,12 @@ Some saws do both:
 
 Vertical and Horizontal saws have their place:
 
-**Horizontal** = Production cutting, straight cuts, heavy material
+**Horizontal** = Production cutting, straight cuts, heavy
+material
 **Vertical** = Fabrication, curves, sheet work, versatility
 
-Know the difference, use the right tool, get better results. And remember:
+Know the difference, use the right tool, get better results. And
+remember:
 
 - Change speeds for different materials
 - Use coolant when appropriate

@@ -87,7 +87,7 @@ Stainless work-hardens rapidly, requiring specific techniques:
 4. Never let the drill dwell
 
 ⚠️ **Safety**: Stainless chips are extremely sharp and hot
-```
+```markdown
 
 ## Development Setup
 
@@ -126,7 +126,7 @@ Before submitting:
 
 Use clear, descriptive commit messages:
 
-```
+```text
 Add drilling speed chart for exotic materials
 
 - Added comprehensive speed/feed table
@@ -143,7 +143,7 @@ Add drilling speed chart for exotic materials
 
 Example PR description:
 
-```
+```text
 ## Summary
 Added comprehensive guide for boring head operations
 
@@ -194,7 +194,7 @@ may be added to the AUTHORS.md file.
 Current priorities:
 
 - [✓] [~~Lathe operations guide~~]
-  (https://jonilsson.github.io/lathe-mastery-wikibook/)
+  (<https://jonilsson.github.io/lathe-mastery-wikibook/>)
 - [ ] Surface grinding techniques
 - [ ] CNC basics for manual machinists
 - [ ] Metrology and inspection
